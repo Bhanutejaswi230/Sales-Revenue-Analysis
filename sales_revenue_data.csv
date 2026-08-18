@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Region,State,City,Salesperson,Category,Sub_Category,Product,Quantity,Unit_Price,Discount,Revenue,Cost,Profit,Customer_Segment,Payment_Mode
+ORD-0521,2025-01-01,East,Odisha,Rourkela,Arjun,Electronics,Mobiles,Smartphone Pro,7,42000,0.0,294000.0,207265.09,86734.91,Consumer,Credit Card
+ORD-0485,2025-01-02,North,Punjab,Amritsar,Meera,Electronics,Mobiles,Budget Phone,3,14000,0.1,37800.0,28446.13,9353.87,Consumer,UPI
+ORD-0145,2025-01-03,South,Tamil Nadu,Chennai,Rohan,Electronics,Mobiles,Budget Phone,4,14000,0.0,56000.0,41952.6,14047.4,Small Business,Credit Card
+ORD-0500,2025-01-04,North,Haryana,Faridabad,Arjun,Electronics,Mobiles,Budget Phone,6,14000,0.05,79800.0,54821.63,24978.37,Corporate,Debit Card
+ORD-0266,2025-01-05,West,Goa,Margao,Ananya,Furniture,Storage,Storage Unit,1,11500,0.1,10350.0,7988.35,2361.65,Corporate,Credit Card
+ORD-0087,2025-01-07,East,Odisha,Rourkela,Diya,Home Appliances,Kitchen,Air Fryer,5,6500,0.05,30875.0,21343.2,9531.8,Consumer,UPI
+ORD-0127,2025-01-07,East,Bihar,Patna,Kabir,Office Supplies,Writing,Notebook,4,180,0.05,684.0,546.69,137.31,Small Business,Credit Card
+ORD-0097,2025-01-12,North,Delhi,Gurugram,Ishita,Home Appliances,Kitchen,Mixer Grinder,2,4200,0.1,7560.0,5554.23,2005.77,Small Business,Debit Card
+ORD-0577,2025-01-13,East,West Bengal,Howrah,Kabir,Office Supplies,Writing,Notebook,1,180,0.0,180.0,137.27,42.73,Corporate,UPI
+ORD-0075,2025-01-15,South,Karnataka,Bengaluru,Rohan,Electronics,Mobiles,Budget Phone,7,14000,0.15,83300.0,53982.36,29317.64,Corporate,Credit Card
+ORD-0592,2025-01-15,West,Rajasthan,Udaipur,Kabir,Electronics,Laptops,Business Laptop,7,68000,0.05,452200.0,354542.09,97657.91,Corporate,Credit Card
+ORD-0204,2025-01-16,East,Bihar,Patna,Aarav,Furniture,Tables,Office Desk,6,14500,0.15,73950.0,47762.95,26187.05,Consumer,Cash
+ORD-0547,2025-01-16,North,Punjab,Ludhiana,Kabir,Home Appliances,Kitchen,Electric Kettle,2,1800,0.15,3060.0,2234.22,825.78,Corporate,UPI
+ORD-0143,2025-01-19,West,Maharashtra,Mumbai,Ishita,Electronics,Accessories,Smart Watch,5,6500,0.15,27625.0,22753.29,4871.71,Small Business,Net Banking
+ORD-0379,2025-01-25,North,Uttar Pradesh,Noida,Ishita,Office Supplies,Writing,Notebook,1,180,0.1,162.0,112.58,49.42,Consumer,UPI
+ORD-0489,2025-01-25,West,Goa,Margao,Kabir,Electronics,Laptops,Laptop Air,4,58000,0.05,220400.0,184223.53,36176.47,Corporate,Credit Card
+ORD-0424,2025-01-25,West,Gujarat,Surat,Diya,Electronics,Mobiles,Budget Phone,3,14000,0.1,37800.0,29496.59,8303.41,Small Business,UPI
+ORD-0404,2025-01-26,North,Punjab,Jalandhar,Arjun,Office Supplies,Writing,Marker Set,3,320,0.05,912.0,676.0,236.0,Corporate,Credit Card
+ORD-0369,2025-01-26,West,Rajasthan,Jaipur,Arjun,Electronics,Laptops,Laptop Air,6,58000,0.0,348000.0,247973.48,100026.52,Consumer,Credit Card
+ORD-0571,2025-01-29,North,Delhi,Noida,Kabir,Electronics,Accessories,Smart Watch,4,6500,0.2,20800.0,16559.25,4240.75,Corporate,UPI
+ORD-0392,2025-01-30,West,Rajasthan,Udaipur,Ananya,Office Supplies,Paper,Premium Paper,2,650,0.15,1105.0,686.41,418.59,Consumer,Debit Card
+ORD-0341,2025-01-31,West,Gujarat,Surat,Arjun,Home Appliances,Cleaning,Steam Mop,7,5200,0.2,29120.0,19792.88,9327.12,Corporate,Debit Card
+ORD-0091,2025-02-03,West,Gujarat,Vadodara,Aarav,Office Supplies,Writing,Notebook,5,180,0.15,765.0,558.13,206.87,Consumer,Credit Card
+ORD-0447,2025-02-04,South,Telangana,Nizamabad,Kabir,Electronics,Mobiles,Smartphone X,7,28000,0.0,196000.0,149411.62,46588.38,Corporate,UPI
+ORD-0305,2025-02-07,North,Punjab,Jalandhar,Rohan,Electronics,Accessories,Smart Watch,6,6500,0.1,35100.0,23771.55,11328.45,Consumer,UPI
+ORD-0111,2025-02-09,North,Delhi,Noida,Kabir,Furniture,Tables,Study Table,3,6500,0.15,16575.0,11544.79,5030.21,Small Business,Debit Card
+ORD-0508,2025-02-11,West,Maharashtra,Nagpur,Aarav,Electronics,Mobiles,Budget Phone,2,14000,0.15,23800.0,14793.4,9006.6,Consumer,Net Banking
+ORD-0299,2025-02-12,West,Goa,Vasco da Gama,Aarav,Electronics,Mobiles,Budget Phone,1,14000,0.05,13300.0,11161.06,2138.94,Corporate,Debit Card
+ORD-0146,2025-02-12,South,Tamil Nadu,Chennai,Meera,Electronics,Mobiles,Smartphone Pro,5,42000,0.05,199500.0,144612.16,54887.84,Corporate,Debit Card
+ORD-0531,2025-02-18,South,Karnataka,Mysuru,Ananya,Electronics,Laptops,Laptop Air,7,58000,0.1,365400.0,293617.7,71782.3,Consumer,Net Banking
+ORD-0432,2025-02-19,South,Telangana,Nizamabad,Meera,Furniture,Tables,Conference Table,7,28000,0.0,196000.0,136820.35,59179.65,Corporate,UPI
+ORD-0387,2025-02-19,North,Haryana,Faridabad,Diya,Electronics,Accessories,Power Bank,1,1800,0.0,1800.0,1332.05,467.95,Consumer,Debit Card
+ORD-0078,2025-02-20,East,Jharkhand,Ranchi,Rohan,Home Appliances,Cooling,Tower Fan,1,7200,0.1,6480.0,4882.53,1597.47,Consumer,Net Banking
+ORD-0147,2025-02-20,West,Rajasthan,Jaipur,Arjun,Home Appliances,Cooling,Room Heater,7,4800,0.0,33600.0,27888.85,5711.15,Consumer,Credit Card
+ORD-0056,2025-02-22,East,West Bengal,Howrah,Diya,Home Appliances,Cleaning,Vacuum Cleaner,4,9800,0.0,39200.0,24699.51,14500.49,Consumer,Debit Card
+ORD-0053,2025-02-23,South,Telangana,Warangal,Ananya,Furniture,Tables,Office Desk,3,14500,0.1,39150.0,31612.84,7537.16,Corporate,Net Banking
+ORD-0107,2025-02-23,North,Punjab,Ludhiana,Arjun,Electronics,Mobiles,Smartphone Pro,3,42000,0.15,107100.0,85269.74,21830.26,Consumer,Credit Card
+ORD-0298,2025-02-23,West,Goa,Panaji,Diya,Home Appliances,Cleaning,Steam Mop,6,5200,0.0,31200.0,19401.11,11798.89,Consumer,Debit Card
+ORD-0322,2025-02-23,West,Gujarat,Ahmedabad,Meera,Furniture,Tables,Office Desk,4,14500,0.1,52200.0,40591.1,11608.9,Consumer,UPI
+ORD-0258,2025-02-23,East,West Bengal,Howrah,Diya,Electronics,Mobiles,Budget Phone,3,14000,0.1,37800.0,30282.64,7517.36,Corporate,UPI
+ORD-0028,2025-02-23,North,Delhi,Noida,Kabir,Furniture,Chairs,Executive Chair,2,12500,0.15,21250.0,14344.93,6905.07,Consumer,Credit Card
+ORD-0186,2025-02-24,West,Goa,Panaji,Ananya,Furniture,Chairs,Executive Chair,3,12500,0.0,37500.0,28034.87,9465.13,Corporate,Debit Card
+ORD-0060,2025-02-25,West,Maharashtra,Mumbai,Ishita,Electronics,Mobiles,Smartphone X,3,28000,0.0,84000.0,55948.78,28051.22,Consumer,Debit Card
+ORD-0044,2025-02-27,East,Bihar,Gaya,Ananya,Home Appliances,Cooling,Tower Fan,3,7200,0.05,20520.0,14551.64,5968.36,Consumer,UPI
+ORD-0600,2025-02-27,South,Kerala,Thiruvananthapuram,Aarav,Furniture,Storage,Bookshelf,7,8500,0.0,59500.0,44012.61,15487.39,Corporate,Debit Card
+ORD-0105,2025-03-02,North,Punjab,Jalandhar,Rohan,Furniture,Chairs,Office Chair,4,7500,0.05,28500.0,23626.26,4873.74,Consumer,Credit Card
+ORD-0213,2025-03-04,East,Odisha,Rourkela,Aarav,Home Appliances,Cooling,Air Cooler,4,12500,0.0,50000.0,41590.91,8409.09,Consumer,Net Banking
+ORD-0333,2025-03-05,West,Goa,Panaji,Arjun,Electronics,Accessories,Power Bank,1,1800,0.1,1620.0,1102.51,517.49,Corporate,UPI
+ORD-0535,2025-03-05,East,Jharkhand,Ranchi,Rohan,Home Appliances,Cleaning,Robot Vacuum,7,26000,0.2,145600.0,98714.08,46885.92,Small Business,UPI
+ORD-0134,2025-03-07,East,Bihar,Patna,Kabir,Office Supplies,Stationery,Calculator,1,750,0.05,712.5,593.71,118.79,Corporate,UPI
+ORD-0585,2025-03-07,South,Tamil Nadu,Chennai,Aarav,Home Appliances,Kitchen,Mixer Grinder,6,4200,0.1,22680.0,17851.3,4828.7,Corporate,UPI
+ORD-0551,2025-03-09,South,Tamil Nadu,Chennai,Ananya,Electronics,Laptops,Business Laptop,5,68000,0.0,340000.0,218101.23,121898.77,Consumer,UPI
+ORD-0297,2025-03-09,West,Rajasthan,Jodhpur,Arjun,Office Supplies,Writing,Ball Pen Set,5,250,0.05,1187.5,740.27,447.23,Consumer,Credit Card
+ORD-0502,2025-03-10,East,West Bengal,Kolkata,Diya,Electronics,Laptops,Business Laptop,4,68000,0.05,258400.0,163531.22,94868.78,Consumer,UPI
+ORD-0438,2025-03-10,East,Jharkhand,Dhanbad,Arjun,Home Appliances,Kitchen,Mixer Grinder,2,4200,0.15,7140.0,4458.43,2681.57,Corporate,Net Banking
+ORD-0076,2025-03-10,South,Tamil Nadu,Coimbatore,Ananya,Electronics,Accessories,Power Bank,4,1800,0.1,6480.0,4376.56,2103.44,Consumer,Net Banking
+ORD-0184,2025-03-11,West,Gujarat,Surat,Meera,Home Appliances,Cleaning,Steam Mop,1,5200,0.2,4160.0,2915.94,1244.06,Corporate,UPI
+ORD-0043,2025-03-11,East,West Bengal,Kolkata,Ananya,Home Appliances,Kitchen,Electric Kettle,7,1800,0.2,10080.0,7920.29,2159.71,Consumer,Debit Card
+ORD-0368,2025-03-13,East,West Bengal,Kolkata,Rohan,Home Appliances,Cleaning,Vacuum Cleaner,6,9800,0.1,52920.0,34937.14,17982.86,Corporate,Debit Card
+ORD-0440,2025-03-14,South,Telangana,Hyderabad,Ananya,Electronics,Mobiles,Smartphone X,4,28000,0.05,106400.0,87309.68,19090.32,Corporate,Debit Card
+ORD-0249,2025-03-15,East,West Bengal,Durgapur,Diya,Office Supplies,Writing,Marker Set,1,320,0.1,288.0,233.49,54.51,Small Business,Credit Card
+ORD-0080,2025-03-16,North,Delhi,Noida,Ishita,Home Appliances,Kitchen,Air Fryer,1,6500,0.0,6500.0,4622.74,1877.26,Consumer,UPI
+ORD-0144,2025-03-17,South,Tamil Nadu,Madurai,Diya,Electronics,Laptops,Laptop Pro,7,82000,0.0,574000.0,396868.7,177131.3,Consumer,Debit Card
+ORD-0039,2025-03-17,East,Jharkhand,Ranchi,Aarav,Electronics,Accessories,Power Bank,1,1800,0.0,1800.0,1495.58,304.42,Consumer,Cash
+ORD-0428,2025-03-17,West,Maharashtra,Mumbai,Arjun,Office Supplies,Stationery,Desk Organizer,6,550,0.0,3300.0,2626.19,673.81,Consumer,Debit Card
+ORD-0071,2025-03-19,North,Delhi,New Delhi,Diya,Electronics,Laptops,Business Laptop,5,68000,0.0,340000.0,228429.74,111570.26,Small Business,UPI
+ORD-0117,2025-03-20,East,Jharkhand,Dhanbad,Meera,Electronics,Mobiles,Budget Phone,5,14000,0.0,70000.0,48383.6,21616.4,Corporate,Debit Card
+ORD-0581,2025-03-20,West,Gujarat,Vadodara,Aarav,Furniture,Chairs,Visitor Chair,3,3200,0.0,9600.0,7431.13,2168.87,Consumer,UPI
+ORD-0515,2025-03-22,North,Punjab,Jalandhar,Arjun,Office Supplies,Stationery,Stapler,5,280,0.2,1120.0,765.24,354.76,Consumer,UPI
+ORD-0014,2025-03-22,South,Tamil Nadu,Coimbatore,Kabir,Home Appliances,Cleaning,Robot Vacuum,2,26000,0.1,46800.0,30540.7,16259.3,Corporate,Credit Card
+ORD-0284,2025-03-22,West,Rajasthan,Jaipur,Aarav,Electronics,Mobiles,Smartphone Pro,1,42000,0.1,37800.0,27667.93,10132.07,Consumer,UPI
+ORD-0464,2025-03-22,South,Karnataka,Bengaluru,Rohan,Furniture,Tables,Conference Table,3,28000,0.1,75600.0,50103.16,25496.84,Small Business,Debit Card
+ORD-0241,2025-03-23,South,Telangana,Nizamabad,Ananya,Home Appliances,Cooling,Tower Fan,1,7200,0.15,6120.0,5114.87,1005.13,Small Business,Debit Card
+ORD-0339,2025-03-25,North,Uttar Pradesh,Kanpur,Kabir,Electronics,Laptops,Laptop Pro,2,82000,0.0,164000.0,117499.52,46500.48,Small Business,UPI
+ORD-0509,2025-03-26,South,Karnataka,Mangaluru,Ishita,Home Appliances,Cooling,Air Cooler,1,12500,0.1,11250.0,7672.52,3577.48,Consumer,UPI
+ORD-0538,2025-03-26,North,Punjab,Amritsar,Aarav,Furniture,Chairs,Visitor Chair,2,3200,0.05,6080.0,4301.91,1778.09,Consumer,Net Banking
+ORD-0173,2025-03-28,East,Bihar,Patna,Kabir,Office Supplies,Paper,Photo Paper,5,900,0.0,4500.0,2827.64,1672.36,Corporate,Net Banking
+ORD-0128,2025-03-28,West,Gujarat,Vadodara,Ananya,Office Supplies,Paper,Premium Paper,6,650,0.0,3900.0,2469.78,1430.22,Consumer,Net Banking
+ORD-0441,2025-03-30,West,Rajasthan,Udaipur,Arjun,Electronics,Mobiles,Smartphone Pro,2,42000,0.15,71400.0,56298.11,15101.89,Small Business,Credit Card
+ORD-0540,2025-03-31,North,Haryana,Panipat,Diya,Home Appliances,Cooling,Room Heater,5,4800,0.15,20400.0,15954.88,4445.12,Corporate,UPI
+ORD-0274,2025-04-01,North,Haryana,Gurugram,Diya,Furniture,Tables,Office Desk,1,14500,0.15,12325.0,8322.09,4002.91,Corporate,UPI
+ORD-0027,2025-04-02,North,Haryana,Gurugram,Diya,Office Supplies,Paper,Premium Paper,6,650,0.15,3315.0,2301.8,1013.2,Consumer,Credit Card
+ORD-0315,2025-04-03,East,West Bengal,Durgapur,Aarav,Office Supplies,Paper,Premium Paper,4,650,0.1,2340.0,1838.26,501.74,Small Business,UPI
+ORD-0271,2025-04-03,North,Uttar Pradesh,Kanpur,Ishita,Office Supplies,Stationery,Calculator,1,750,0.1,675.0,534.53,140.47,Corporate,Net Banking
+ORD-0032,2025-04-04,South,Kerala,Thiruvananthapuram,Ishita,Office Supplies,Paper,A4 Paper Pack,6,450,0.0,2700.0,1729.93,970.07,Small Business,UPI
+ORD-0351,2025-04-04,East,Odisha,Cuttack,Diya,Furniture,Tables,Conference Table,5,28000,0.15,119000.0,84196.12,34803.88,Consumer,UPI
+ORD-0376,2025-04-06,East,West Bengal,Howrah,Ananya,Furniture,Storage,Storage Unit,3,11500,0.15,29325.0,22780.43,6544.57,Consumer,UPI
+ORD-0418,2025-04-08,West,Gujarat,Ahmedabad,Rohan,Home Appliances,Cooling,Tower Fan,3,7200,0.15,18360.0,13758.25,4601.75,Consumer,UPI
+ORD-0589,2025-04-10,East,Odisha,Bhubaneswar,Ishita,Electronics,Accessories,Power Bank,3,1800,0.15,4590.0,3640.23,949.77,Consumer,UPI
+ORD-0597,2025-04-10,South,Karnataka,Mysuru,Rohan,Furniture,Tables,Office Desk,5,14500,0.1,65250.0,43950.85,21299.15,Consumer,UPI
+ORD-0033,2025-04-10,North,Punjab,Ludhiana,Diya,Furniture,Chairs,Executive Chair,6,12500,0.1,67500.0,42563.68,24936.32,Consumer,UPI
+ORD-0255,2025-04-11,North,Uttar Pradesh,Noida,Ishita,Home Appliances,Kitchen,Mixer Grinder,4,4200,0.15,14280.0,10877.26,3402.74,Small Business,Credit Card
+ORD-0403,2025-04-12,East,Bihar,Patna,Kabir,Furniture,Chairs,Office Chair,7,7500,0.15,44625.0,32575.85,12049.15,Corporate,UPI
+ORD-0054,2025-04-13,South,Kerala,Thiruvananthapuram,Ishita,Electronics,Accessories,Wireless Earbuds,5,2500,0.1,11250.0,8967.49,2282.51,Corporate,Cash
+ORD-0171,2025-04-15,East,Bihar,Patna,Meera,Office Supplies,Paper,Premium Paper,2,650,0.15,1105.0,901.97,203.03,Corporate,UPI
+ORD-0357,2025-04-15,East,Jharkhand,Jamshedpur,Ananya,Electronics,Accessories,Smart Watch,5,6500,0.0,32500.0,25269.76,7230.24,Corporate,Cash
+ORD-0226,2025-04-15,East,West Bengal,Kolkata,Diya,Furniture,Storage,Storage Unit,1,11500,0.15,9775.0,7498.27,2276.73,Consumer,Credit Card
+ORD-0499,2025-04-15,West,Goa,Margao,Meera,Electronics,Laptops,Laptop Pro,4,82000,0.1,295200.0,196997.07,98202.93,Small Business,Cash
+ORD-0473,2025-04-17,South,Tamil Nadu,Coimbatore,Ananya,Office Supplies,Stationery,Calculator,3,750,0.1,2025.0,1521.65,503.35,Consumer,UPI
+ORD-0096,2025-04-18,West,Maharashtra,Mumbai,Ananya,Office Supplies,Writing,Ball Pen Set,7,250,0.0,1750.0,1114.94,635.06,Small Business,UPI
+ORD-0187,2025-04-19,East,Odisha,Rourkela,Ananya,Electronics,Accessories,Wireless Earbuds,7,2500,0.0,17500.0,11075.42,6424.58,Corporate,Debit Card
+ORD-0237,2025-04-21,South,Kerala,Thiruvananthapuram,Diya,Furniture,Storage,Bookshelf,4,8500,0.1,30600.0,25702.07,4897.93,Consumer,Credit Card
+ORD-0536,2025-04-21,East,Bihar,Patna,Diya,Home Appliances,Cooling,Tower Fan,6,7200,0.0,43200.0,27656.25,15543.75,Small Business,Credit Card
+ORD-0183,2025-04-22,South,Karnataka,Mysuru,Rohan,Electronics,Laptops,Laptop Air,6,58000,0.1,313200.0,207139.66,106060.34,Corporate,Credit Card
+ORD-0188,2025-04-23,West,Goa,Vasco da Gama,Kabir,Furniture,Tables,Conference Table,1,28000,0.05,26600.0,17010.49,9589.51,Small Business,Debit Card
+ORD-0178,2025-04-23,South,Karnataka,Mysuru,Meera,Office Supplies,Writing,Notebook,4,180,0.0,720.0,477.68,242.32,Small Business,Debit Card
+ORD-0555,2025-04-24,North,Delhi,Noida,Ishita,Office Supplies,Paper,Premium Paper,1,650,0.05,617.5,383.35,234.15,Consumer,UPI
+ORD-0575,2025-04-25,South,Telangana,Hyderabad,Ananya,Electronics,Mobiles,Smartphone Pro,7,42000,0.1,264600.0,201607.48,62992.52,Corporate,Credit Card
+ORD-0125,2025-04-26,South,Karnataka,Bengaluru,Diya,Furniture,Tables,Study Table,2,6500,0.1,11700.0,9525.64,2174.36,Consumer,UPI
+ORD-0529,2025-04-26,South,Karnataka,Bengaluru,Diya,Electronics,Mobiles,Smartphone Pro,3,42000,0.1,113400.0,74652.86,38747.14,Consumer,UPI
+ORD-0024,2025-04-26,South,Karnataka,Mangaluru,Arjun,Office Supplies,Paper,A4 Paper Pack,1,450,0.1,405.0,302.09,102.91,Consumer,UPI
+ORD-0045,2025-04-27,East,West Bengal,Durgapur,Ishita,Furniture,Tables,Study Table,7,6500,0.1,40950.0,26135.77,14814.23,Small Business,Cash
+ORD-0131,2025-04-27,South,Kerala,Kozhikode,Diya,Home Appliances,Cleaning,Vacuum Cleaner,3,9800,0.1,26460.0,18958.47,7501.53,Consumer,Net Banking
+ORD-0150,2025-04-28,North,Uttar Pradesh,Kanpur,Rohan,Home Appliances,Kitchen,Mixer Grinder,2,4200,0.0,8400.0,5212.78,3187.22,Small Business,UPI
+ORD-0230,2025-04-28,South,Karnataka,Mangaluru,Ananya,Furniture,Storage,Bookshelf,7,8500,0.0,59500.0,48535.55,10964.45,Consumer,Credit Card
+ORD-0426,2025-04-28,West,Goa,Margao,Diya,Office Supplies,Stationery,Calculator,5,750,0.05,3562.5,2284.75,1277.75,Corporate,Debit Card
+ORD-0116,2025-04-30,East,Odisha,Rourkela,Kabir,Electronics,Laptops,Laptop Air,2,58000,0.1,104400.0,66058.32,38341.68,Small Business,Cash
+ORD-0326,2025-04-30,South,Tamil Nadu,Chennai,Ishita,Electronics,Laptops,Laptop Air,5,58000,0.15,246500.0,197533.25,48966.75,Corporate,UPI
+ORD-0059,2025-05-01,South,Karnataka,Mysuru,Ishita,Electronics,Laptops,Laptop Air,3,58000,0.0,174000.0,138481.43,35518.57,Consumer,Net Banking
+ORD-0484,2025-05-01,West,Rajasthan,Udaipur,Ananya,Furniture,Storage,Filing Cabinet,5,9200,0.1,41400.0,32150.87,9249.13,Corporate,UPI
+ORD-0477,2025-05-01,East,Jharkhand,Dhanbad,Rohan,Office Supplies,Stationery,Calculator,2,750,0.1,1350.0,980.95,369.05,Consumer,UPI
+ORD-0522,2025-05-02,South,Karnataka,Mysuru,Aarav,Electronics,Accessories,Smart Watch,2,6500,0.05,12350.0,9223.47,3126.53,Consumer,Debit Card
+ORD-0303,2025-05-03,West,Maharashtra,Pune,Ananya,Home Appliances,Cleaning,Robot Vacuum,5,26000,0.05,123500.0,100309.05,23190.95,Small Business,Credit Card
+ORD-0209,2025-05-04,South,Tamil Nadu,Chennai,Aarav,Office Supplies,Writing,Marker Set,4,320,0.1,1152.0,756.6,395.4,Small Business,UPI
+ORD-0189,2025-05-04,West,Gujarat,Ahmedabad,Kabir,Electronics,Laptops,Business Laptop,3,68000,0.1,183600.0,153865.58,29734.42,Corporate,Cash
+ORD-0330,2025-05-05,West,Goa,Vasco da Gama,Diya,Home Appliances,Cooling,Tower Fan,3,7200,0.15,18360.0,13058.72,5301.28,Consumer,UPI
+ORD-0468,2025-05-06,North,Delhi,New Delhi,Ananya,Electronics,Laptops,Business Laptop,2,68000,0.0,136000.0,102166.29,33833.71,Consumer,UPI
+ORD-0561,2025-05-06,West,Gujarat,Vadodara,Meera,Electronics,Laptops,Business Laptop,3,68000,0.2,163200.0,118221.65,44978.35,Consumer,Net Banking
+ORD-0223,2025-05-07,East,Bihar,Muzaffarpur,Ishita,Furniture,Storage,Bookshelf,3,8500,0.0,25500.0,18337.85,7162.15,Consumer,Credit Card
+ORD-0030,2025-05-07,West,Rajasthan,Udaipur,Aarav,Furniture,Storage,Filing Cabinet,5,9200,0.0,46000.0,29338.43,16661.57,Corporate,UPI
+ORD-0164,2025-05-08,North,Delhi,Noida,Meera,Electronics,Laptops,Laptop Air,7,58000,0.2,324800.0,240643.18,84156.82,Corporate,Net Banking
+ORD-0203,2025-05-09,North,Uttar Pradesh,Noida,Arjun,Electronics,Accessories,Smart Watch,3,6500,0.2,15600.0,10154.92,5445.08,Consumer,Net Banking
+ORD-0306,2025-05-09,North,Delhi,Noida,Ananya,Home Appliances,Kitchen,Electric Kettle,4,1800,0.05,6840.0,5453.43,1386.57,Small Business,Credit Card
+ORD-0570,2025-05-09,West,Gujarat,Vadodara,Kabir,Electronics,Mobiles,Budget Phone,3,14000,0.05,39900.0,28948.15,10951.85,Consumer,Credit Card
+ORD-0007,2025-05-09,South,Kerala,Kochi,Ananya,Electronics,Accessories,Wireless Earbuds,1,2500,0.0,2500.0,1782.87,717.13,Consumer,UPI
+ORD-0295,2025-05-14,South,Kerala,Thiruvananthapuram,Arjun,Office Supplies,Stationery,Calculator,6,750,0.1,4050.0,3138.08,911.92,Corporate,Credit Card
+ORD-0008,2025-05-15,North,Uttar Pradesh,Noida,Aarav,Home Appliances,Cooling,Air Cooler,2,12500,0.05,23750.0,15330.42,8419.58,Corporate,UPI
+ORD-0099,2025-05-17,East,West Bengal,Durgapur,Kabir,Furniture,Tables,Office Desk,7,14500,0.0,101500.0,78503.39,22996.61,Small Business,Cash
+ORD-0316,2025-05-19,North,Punjab,Ludhiana,Rohan,Furniture,Chairs,Visitor Chair,3,3200,0.15,8160.0,6643.57,1516.43,Consumer,Debit Card
+ORD-0353,2025-05-20,South,Karnataka,Mangaluru,Aarav,Electronics,Accessories,Power Bank,2,1800,0.05,3420.0,2373.21,1046.79,Corporate,Net Banking
+ORD-0148,2025-05-24,North,Punjab,Ludhiana,Diya,Office Supplies,Paper,Premium Paper,3,650,0.15,1657.5,1221.74,435.76,Corporate,Debit Card
+ORD-0018,2025-05-24,West,Rajasthan,Jaipur,Diya,Electronics,Accessories,Power Bank,6,1800,0.1,9720.0,6515.13,3204.87,Small Business,Credit Card
+ORD-0342,2025-05-25,North,Uttar Pradesh,Kanpur,Aarav,Home Appliances,Cleaning,Robot Vacuum,4,26000,0.05,98800.0,71859.57,26940.43,Consumer,UPI
+ORD-0048,2025-05-25,North,Uttar Pradesh,Kanpur,Aarav,Furniture,Tables,Study Table,1,6500,0.05,6175.0,4444.23,1730.77,Consumer,Net Banking
+ORD-0371,2025-05-25,North,Haryana,Gurugram,Arjun,Office Supplies,Stationery,Calculator,4,750,0.15,2550.0,1924.24,625.76,Consumer,UPI
+ORD-0072,2025-05-25,East,Odisha,Rourkela,Aarav,Office Supplies,Stationery,Stapler,6,280,0.1,1512.0,1083.38,428.62,Consumer,Credit Card
+ORD-0516,2025-05-26,West,Maharashtra,Pune,Diya,Furniture,Chairs,Office Chair,4,7500,0.1,27000.0,20868.12,6131.88,Small Business,Debit Card
+ORD-0518,2025-05-26,East,West Bengal,Kolkata,Meera,Office Supplies,Writing,Marker Set,3,320,0.0,960.0,732.12,227.88,Small Business,Credit Card
+ORD-0388,2025-05-27,East,Odisha,Cuttack,Diya,Electronics,Laptops,Laptop Air,2,58000,0.05,110200.0,80557.98,29642.02,Corporate,Debit Card
+ORD-0427,2025-05-27,East,Odisha,Rourkela,Kabir,Home Appliances,Cooling,Air Cooler,2,12500,0.1,22500.0,17154.92,5345.08,Consumer,Debit Card
+ORD-0242,2025-05-27,East,West Bengal,Durgapur,Arjun,Electronics,Mobiles,Smartphone X,1,28000,0.1,25200.0,17278.52,7921.48,Small Business,Credit Card
+ORD-0482,2025-05-29,North,Haryana,Gurugram,Aarav,Furniture,Storage,Storage Unit,5,11500,0.05,54625.0,40093.49,14531.51,Corporate,Net Banking
+ORD-0573,2025-05-29,East,Jharkhand,Ranchi,Aarav,Electronics,Mobiles,Budget Phone,6,14000,0.05,79800.0,55949.34,23850.66,Consumer,Net Banking
+ORD-0166,2025-05-29,North,Punjab,Jalandhar,Aarav,Office Supplies,Stationery,Desk Organizer,1,550,0.05,522.5,343.57,178.93,Corporate,UPI
+ORD-0567,2025-05-30,South,Kerala,Kozhikode,Ishita,Furniture,Tables,Study Table,7,6500,0.05,43225.0,29180.11,14044.89,Small Business,Credit Card
+ORD-0139,2025-05-31,East,West Bengal,Durgapur,Meera,Furniture,Storage,Storage Unit,2,11500,0.05,21850.0,16105.5,5744.5,Consumer,UPI
+ORD-0445,2025-06-01,West,Gujarat,Ahmedabad,Kabir,Home Appliances,Cleaning,Robot Vacuum,6,26000,0.1,140400.0,97290.98,43109.02,Corporate,UPI
+ORD-0020,2025-06-02,West,Goa,Vasco da Gama,Rohan,Home Appliances,Cleaning,Steam Mop,3,5200,0.05,14820.0,12253.61,2566.39,Consumer,UPI
+ORD-0095,2025-06-03,East,Bihar,Muzaffarpur,Diya,Home Appliances,Kitchen,Air Fryer,3,6500,0.1,17550.0,12171.52,5378.48,Consumer,UPI
+ORD-0332,2025-06-04,South,Karnataka,Mysuru,Arjun,Home Appliances,Cleaning,Vacuum Cleaner,6,9800,0.0,58800.0,42338.83,16461.17,Small Business,UPI
+ORD-0416,2025-06-04,South,Karnataka,Mangaluru,Arjun,Home Appliances,Cleaning,Vacuum Cleaner,2,9800,0.1,17640.0,14078.99,3561.01,Small Business,UPI
+ORD-0272,2025-06-04,West,Goa,Margao,Aarav,Home Appliances,Kitchen,Air Fryer,4,6500,0.0,26000.0,19063.99,6936.01,Consumer,Net Banking
+ORD-0324,2025-06-05,West,Maharashtra,Pune,Rohan,Office Supplies,Stationery,Desk Organizer,6,550,0.1,2970.0,1988.44,981.56,Corporate,UPI
+ORD-0252,2025-06-06,West,Gujarat,Surat,Ananya,Home Appliances,Cleaning,Vacuum Cleaner,6,9800,0.05,55860.0,43738.32,12121.68,Consumer,Credit Card
+ORD-0118,2025-06-06,South,Karnataka,Mysuru,Kabir,Home Appliances,Kitchen,Electric Kettle,5,1800,0.15,7650.0,5629.98,2020.02,Consumer,UPI
+ORD-0161,2025-06-07,East,Jharkhand,Ranchi,Meera,Furniture,Storage,Bookshelf,2,8500,0.1,15300.0,11599.68,3700.32,Corporate,Debit Card
+ORD-0089,2025-06-07,East,Odisha,Cuttack,Meera,Electronics,Mobiles,Budget Phone,4,14000,0.2,44800.0,35461.3,9338.7,Small Business,Credit Card
+ORD-0149,2025-06-08,South,Kerala,Kozhikode,Arjun,Electronics,Accessories,Power Bank,7,1800,0.15,10710.0,8524.64,2185.36,Consumer,Net Banking
+ORD-0130,2025-06-08,North,Haryana,Panipat,Diya,Electronics,Laptops,Business Laptop,7,68000,0.05,452200.0,326387.58,125812.42,Corporate,Credit Card
+ORD-0108,2025-06-09,East,West Bengal,Kolkata,Kabir,Electronics,Accessories,Smart Watch,2,6500,0.1,11700.0,7650.13,4049.87,Consumer,UPI
+ORD-0268,2025-06-10,East,West Bengal,Durgapur,Aarav,Electronics,Laptops,Laptop Pro,5,82000,0.1,369000.0,301653.23,67346.77,Small Business,Net Banking
+ORD-0219,2025-06-11,West,Rajasthan,Udaipur,Kabir,Furniture,Tables,Study Table,3,6500,0.1,17550.0,14551.0,2999.0,Corporate,Credit Card
+ORD-0360,2025-06-12,West,Goa,Margao,Ananya,Electronics,Mobiles,Budget Phone,2,14000,0.15,23800.0,18862.1,4937.9,Small Business,UPI
+ORD-0385,2025-06-13,East,Bihar,Patna,Diya,Furniture,Chairs,Visitor Chair,7,3200,0.0,22400.0,14623.5,7776.5,Consumer,Debit Card
+ORD-0454,2025-06-14,East,Odisha,Cuttack,Meera,Furniture,Storage,Bookshelf,5,8500,0.05,40375.0,25047.1,15327.9,Consumer,Net Banking
+ORD-0329,2025-06-15,West,Maharashtra,Nagpur,Arjun,Furniture,Tables,Conference Table,4,28000,0.1,100800.0,67641.24,33158.76,Corporate,Debit Card
+ORD-0154,2025-06-16,South,Tamil Nadu,Chennai,Rohan,Electronics,Laptops,Business Laptop,4,68000,0.1,244800.0,182925.61,61874.39,Consumer,UPI
+ORD-0504,2025-06-17,South,Kerala,Thiruvananthapuram,Meera,Electronics,Mobiles,Budget Phone,6,14000,0.0,84000.0,58885.26,25114.74,Consumer,Credit Card
+ORD-0495,2025-06-18,East,Jharkhand,Ranchi,Rohan,Furniture,Chairs,Office Chair,5,7500,0.0,37500.0,29183.68,8316.32,Consumer,Net Banking
+ORD-0234,2025-06-19,South,Karnataka,Mangaluru,Ananya,Electronics,Mobiles,Smartphone Pro,2,42000,0.15,71400.0,46092.31,25307.69,Consumer,Net Banking
+ORD-0156,2025-06-21,West,Gujarat,Vadodara,Diya,Furniture,Chairs,Executive Chair,3,12500,0.0,37500.0,23681.8,13818.2,Consumer,Cash
+ORD-0312,2025-06-24,West,Goa,Vasco da Gama,Diya,Furniture,Storage,Bookshelf,6,8500,0.15,43350.0,33352.42,9997.58,Consumer,Credit Card
+ORD-0549,2025-06-25,West,Gujarat,Vadodara,Arjun,Home Appliances,Cooling,Room Heater,4,4800,0.05,18240.0,14903.53,3336.47,Consumer,Debit Card
+ORD-0491,2025-06-26,South,Karnataka,Mysuru,Kabir,Electronics,Mobiles,Smartphone Pro,4,42000,0.05,159600.0,113145.73,46454.27,Small Business,Credit Card
+ORD-0323,2025-06-27,South,Telangana,Warangal,Ananya,Furniture,Tables,Conference Table,7,28000,0.1,176400.0,132057.8,44342.2,Consumer,Credit Card
+ORD-0523,2025-06-28,West,Goa,Vasco da Gama,Ishita,Electronics,Accessories,Smart Watch,6,6500,0.1,35100.0,29379.66,5720.34,Consumer,Debit Card
+ORD-0289,2025-06-28,East,Odisha,Cuttack,Diya,Office Supplies,Paper,Photo Paper,6,900,0.1,4860.0,3624.51,1235.49,Consumer,UPI
+ORD-0327,2025-07-01,West,Rajasthan,Udaipur,Rohan,Home Appliances,Kitchen,Air Fryer,2,6500,0.15,11050.0,7456.34,3593.66,Consumer,UPI
+ORD-0356,2025-07-03,North,Haryana,Faridabad,Ishita,Office Supplies,Stationery,Desk Organizer,4,550,0.1,1980.0,1512.21,467.79,Consumer,Debit Card
+ORD-0247,2025-07-03,South,Kerala,Kochi,Arjun,Furniture,Tables,Office Desk,4,14500,0.0,58000.0,45021.0,12979.0,Consumer,Net Banking
+ORD-0513,2025-07-03,South,Tamil Nadu,Madurai,Arjun,Electronics,Mobiles,Budget Phone,4,14000,0.05,53200.0,34001.86,19198.14,Corporate,Credit Card
+ORD-0304,2025-07-04,East,Bihar,Patna,Rohan,Home Appliances,Cleaning,Steam Mop,7,5200,0.05,34580.0,24816.76,9763.24,Consumer,Credit Card
+ORD-0347,2025-07-04,North,Delhi,Noida,Ishita,Home Appliances,Cleaning,Vacuum Cleaner,6,9800,0.2,47040.0,35076.66,11963.34,Consumer,Net Banking
+ORD-0372,2025-07-06,South,Tamil Nadu,Coimbatore,Meera,Office Supplies,Writing,Ball Pen Set,7,250,0.05,1662.5,1097.24,565.26,Small Business,UPI
+ORD-0278,2025-07-08,East,Bihar,Gaya,Ananya,Home Appliances,Kitchen,Mixer Grinder,3,4200,0.0,12600.0,10103.74,2496.26,Corporate,Debit Card
+ORD-0457,2025-07-08,North,Punjab,Ludhiana,Diya,Furniture,Tables,Office Desk,5,14500,0.1,65250.0,50309.91,14940.09,Small Business,Debit Card
+ORD-0221,2025-07-09,South,Telangana,Warangal,Meera,Office Supplies,Paper,A4 Paper Pack,5,450,0.1,2025.0,1636.02,388.98,Consumer,UPI
+ORD-0598,2025-07-09,East,Bihar,Muzaffarpur,Arjun,Electronics,Mobiles,Smartphone Pro,7,42000,0.1,264600.0,175134.5,89465.5,Consumer,Debit Card
+ORD-0176,2025-07-09,South,Karnataka,Mangaluru,Arjun,Electronics,Laptops,Laptop Pro,1,82000,0.1,73800.0,54365.99,19434.01,Small Business,Net Banking
+ORD-0363,2025-07-11,East,West Bengal,Durgapur,Kabir,Electronics,Accessories,Power Bank,4,1800,0.1,6480.0,4168.5,2311.5,Consumer,Credit Card
+ORD-0286,2025-07-11,North,Uttar Pradesh,Lucknow,Aarav,Home Appliances,Cooling,Air Cooler,4,12500,0.1,45000.0,32209.71,12790.29,Consumer,Credit Card
+ORD-0442,2025-07-11,North,Punjab,Ludhiana,Rohan,Office Supplies,Stationery,Calculator,7,750,0.1,4725.0,3254.02,1470.98,Consumer,Credit Card
+ORD-0042,2025-07-13,West,Goa,Panaji,Rohan,Electronics,Accessories,Smart Watch,5,6500,0.05,30875.0,21836.76,9038.24,Corporate,UPI
+ORD-0109,2025-07-14,East,West Bengal,Howrah,Aarav,Home Appliances,Cooling,Air Cooler,3,12500,0.05,35625.0,25823.45,9801.55,Small Business,UPI
+ORD-0498,2025-07-16,South,Tamil Nadu,Chennai,Diya,Electronics,Mobiles,Smartphone Pro,4,42000,0.05,159600.0,128079.72,31520.28,Small Business,Debit Card
+ORD-0459,2025-07-17,West,Rajasthan,Jaipur,Meera,Office Supplies,Writing,Ball Pen Set,3,250,0.05,712.5,591.3,121.2,Small Business,UPI
+ORD-0276,2025-07-18,South,Kerala,Thiruvananthapuram,Arjun,Furniture,Chairs,Visitor Chair,4,3200,0.15,10880.0,7421.78,3458.22,Small Business,Net Banking
+ORD-0172,2025-07-19,East,Jharkhand,Ranchi,Aarav,Electronics,Laptops,Laptop Pro,4,82000,0.15,278800.0,223466.31,55333.69,Corporate,UPI
+ORD-0016,2025-07-20,North,Haryana,Faridabad,Ananya,Electronics,Laptops,Laptop Pro,6,82000,0.1,442800.0,283331.67,159468.33,Corporate,Debit Card
+ORD-0394,2025-07-20,North,Uttar Pradesh,Kanpur,Diya,Electronics,Mobiles,Smartphone Pro,4,42000,0.05,159600.0,115290.91,44309.09,Consumer,UPI
+ORD-0400,2025-07-20,South,Kerala,Thiruvananthapuram,Rohan,Electronics,Laptops,Business Laptop,5,68000,0.2,272000.0,202494.18,69505.82,Consumer,Credit Card
+ORD-0231,2025-07-21,East,Jharkhand,Ranchi,Ananya,Office Supplies,Paper,A4 Paper Pack,1,450,0.15,382.5,265.74,116.76,Consumer,UPI
+ORD-0194,2025-07-22,East,West Bengal,Howrah,Ananya,Furniture,Storage,Filing Cabinet,7,9200,0.05,61180.0,47790.07,13389.93,Consumer,Net Banking
+ORD-0293,2025-07-23,West,Gujarat,Surat,Arjun,Furniture,Tables,Study Table,5,6500,0.0,32500.0,24312.61,8187.39,Consumer,UPI
+ORD-0263,2025-07-24,South,Karnataka,Mangaluru,Arjun,Electronics,Accessories,Wireless Earbuds,1,2500,0.15,2125.0,1599.54,525.46,Consumer,Debit Card
+ORD-0250,2025-07-24,East,Odisha,Cuttack,Kabir,Furniture,Tables,Study Table,7,6500,0.1,40950.0,30075.21,10874.79,Corporate,UPI
+ORD-0399,2025-07-25,North,Haryana,Gurugram,Arjun,Home Appliances,Cooling,Tower Fan,5,7200,0.0,36000.0,25504.06,10495.94,Small Business,UPI
+ORD-0162,2025-07-25,North,Haryana,Faridabad,Ananya,Electronics,Mobiles,Budget Phone,2,14000,0.0,28000.0,18737.46,9262.54,Corporate,Net Banking
+ORD-0318,2025-07-25,South,Tamil Nadu,Chennai,Meera,Home Appliances,Kitchen,Electric Kettle,2,1800,0.05,3420.0,2286.01,1133.99,Corporate,Debit Card
+ORD-0367,2025-07-27,South,Telangana,Warangal,Meera,Electronics,Mobiles,Budget Phone,1,14000,0.0,14000.0,11439.32,2560.68,Consumer,UPI
+ORD-0019,2025-07-27,South,Tamil Nadu,Coimbatore,Kabir,Home Appliances,Kitchen,Electric Kettle,7,1800,0.05,11970.0,8341.01,3628.99,Small Business,Credit Card
+ORD-0157,2025-07-27,South,Kerala,Kozhikode,Diya,Furniture,Chairs,Office Chair,5,7500,0.1,33750.0,22416.93,11333.07,Consumer,Credit Card
+ORD-0202,2025-07-29,West,Goa,Panaji,Diya,Office Supplies,Stationery,Stapler,7,280,0.0,1960.0,1601.97,358.03,Consumer,Credit Card
+ORD-0077,2025-07-29,East,Jharkhand,Dhanbad,Aarav,Furniture,Tables,Conference Table,4,28000,0.15,95200.0,61937.65,33262.35,Consumer,Debit Card
+ORD-0537,2025-07-29,East,Jharkhand,Dhanbad,Ishita,Office Supplies,Stationery,Calculator,4,750,0.0,3000.0,2099.11,900.89,Corporate,Credit Card
+ORD-0206,2025-07-30,West,Gujarat,Surat,Ananya,Office Supplies,Paper,A4 Paper Pack,1,450,0.15,382.5,282.66,99.84,Consumer,Credit Card
+ORD-0174,2025-07-30,North,Delhi,New Delhi,Arjun,Furniture,Tables,Conference Table,6,28000,0.2,134400.0,112031.13,22368.87,Corporate,Credit Card
+ORD-0282,2025-08-01,South,Tamil Nadu,Coimbatore,Ishita,Electronics,Accessories,Smart Watch,4,6500,0.2,20800.0,16347.44,4452.56,Corporate,Debit Card
+ORD-0430,2025-08-02,East,Odisha,Cuttack,Rohan,Electronics,Accessories,Wireless Earbuds,6,2500,0.0,15000.0,11709.57,3290.43,Consumer,UPI
+ORD-0408,2025-08-03,West,Goa,Vasco da Gama,Rohan,Home Appliances,Cooling,Tower Fan,2,7200,0.05,13680.0,11294.76,2385.24,Consumer,Credit Card
+ORD-0138,2025-08-04,North,Haryana,Gurugram,Kabir,Electronics,Accessories,Smart Watch,4,6500,0.0,26000.0,21763.52,4236.48,Consumer,Cash
+ORD-0050,2025-08-05,North,Haryana,Gurugram,Ishita,Office Supplies,Writing,Marker Set,1,320,0.05,304.0,238.61,65.39,Small Business,Credit Card
+ORD-0294,2025-08-07,South,Kerala,Kozhikode,Rohan,Electronics,Laptops,Laptop Pro,6,82000,0.0,492000.0,369481.73,122518.27,Small Business,UPI
+ORD-0446,2025-08-10,South,Telangana,Nizamabad,Kabir,Home Appliances,Cleaning,Robot Vacuum,2,26000,0.0,52000.0,40049.55,11950.45,Small Business,Net Banking
+ORD-0115,2025-08-10,West,Gujarat,Vadodara,Rohan,Office Supplies,Writing,Ball Pen Set,2,250,0.05,475.0,360.61,114.39,Consumer,Net Banking
+ORD-0175,2025-08-11,South,Tamil Nadu,Coimbatore,Meera,Home Appliances,Cleaning,Steam Mop,7,5200,0.0,36400.0,30318.62,6081.38,Corporate,Debit Card
+ORD-0114,2025-08-11,West,Goa,Vasco da Gama,Diya,Electronics,Mobiles,Smartphone Pro,3,42000,0.2,100800.0,76507.1,24292.9,Corporate,Credit Card
+ORD-0588,2025-08-15,West,Gujarat,Vadodara,Meera,Electronics,Laptops,Laptop Pro,2,82000,0.15,139400.0,101564.0,37836.0,Consumer,Debit Card
+ORD-0456,2025-08-16,North,Uttar Pradesh,Lucknow,Ananya,Electronics,Accessories,Power Bank,1,1800,0.1,1620.0,1043.82,576.18,Small Business,UPI
+ORD-0193,2025-08-16,South,Telangana,Warangal,Meera,Electronics,Laptops,Business Laptop,2,68000,0.15,115600.0,78491.31,37108.69,Consumer,Debit Card
+ORD-0240,2025-08-16,South,Karnataka,Mysuru,Ishita,Home Appliances,Kitchen,Electric Kettle,3,1800,0.1,4860.0,3113.35,1746.65,Corporate,Credit Card
+ORD-0490,2025-08-17,South,Telangana,Hyderabad,Diya,Office Supplies,Stationery,Stapler,5,280,0.05,1330.0,854.02,475.98,Corporate,Net Banking
+ORD-0350,2025-08-17,South,Karnataka,Mangaluru,Aarav,Electronics,Laptops,Business Laptop,2,68000,0.15,115600.0,86675.55,28924.45,Corporate,Debit Card
+ORD-0345,2025-08-17,South,Telangana,Warangal,Ishita,Electronics,Accessories,Power Bank,1,1800,0.1,1620.0,1326.34,293.66,Corporate,Credit Card
+ORD-0062,2025-08-19,South,Telangana,Nizamabad,Ishita,Electronics,Accessories,Wireless Earbuds,4,2500,0.0,10000.0,6908.57,3091.43,Consumer,UPI
+ORD-0587,2025-08-20,North,Haryana,Faridabad,Ananya,Furniture,Storage,Storage Unit,5,11500,0.0,57500.0,37908.28,19591.72,Consumer,UPI
+ORD-0355,2025-08-21,East,Bihar,Gaya,Aarav,Electronics,Laptops,Laptop Air,5,58000,0.15,246500.0,181286.41,65213.59,Consumer,UPI
+ORD-0254,2025-08-23,North,Delhi,New Delhi,Rohan,Home Appliances,Kitchen,Electric Kettle,2,1800,0.0,3600.0,2433.35,1166.65,Consumer,UPI
+ORD-0041,2025-08-23,North,Delhi,Noida,Kabir,Home Appliances,Cleaning,Robot Vacuum,2,26000,0.05,49400.0,40275.57,9124.43,Consumer,UPI
+ORD-0310,2025-08-23,North,Uttar Pradesh,Lucknow,Meera,Office Supplies,Writing,Notebook,6,180,0.0,1080.0,689.45,390.55,Small Business,UPI
+ORD-0486,2025-08-24,West,Maharashtra,Mumbai,Diya,Furniture,Chairs,Executive Chair,6,12500,0.1,67500.0,53805.99,13694.01,Consumer,Net Banking
+ORD-0586,2025-08-25,South,Karnataka,Mangaluru,Diya,Electronics,Mobiles,Smartphone X,6,28000,0.15,142800.0,106864.92,35935.08,Small Business,Debit Card
+ORD-0393,2025-08-25,North,Uttar Pradesh,Kanpur,Ishita,Electronics,Mobiles,Smartphone X,6,28000,0.05,159600.0,101056.73,58543.27,Consumer,Debit Card
+ORD-0512,2025-08-25,West,Maharashtra,Mumbai,Kabir,Furniture,Tables,Study Table,5,6500,0.15,27625.0,21436.46,6188.54,Small Business,Credit Card
+ORD-0511,2025-08-26,South,Telangana,Warangal,Arjun,Home Appliances,Cooling,Tower Fan,3,7200,0.1,19440.0,16017.0,3423.0,Consumer,Credit Card
+ORD-0010,2025-08-29,West,Rajasthan,Udaipur,Ananya,Furniture,Storage,Filing Cabinet,2,9200,0.05,17480.0,11613.33,5866.67,Corporate,Debit Card
+ORD-0169,2025-08-30,North,Haryana,Gurugram,Rohan,Office Supplies,Writing,Marker Set,5,320,0.05,1520.0,946.45,573.55,Small Business,Net Banking
+ORD-0593,2025-08-31,West,Goa,Margao,Aarav,Office Supplies,Paper,Premium Paper,1,650,0.05,617.5,459.81,157.69,Consumer,Net Banking
+ORD-0065,2025-08-31,South,Kerala,Kozhikode,Arjun,Electronics,Laptops,Laptop Pro,7,82000,0.0,574000.0,462247.42,111752.58,Consumer,Cash
+ORD-0590,2025-09-01,South,Tamil Nadu,Chennai,Ananya,Office Supplies,Writing,Marker Set,2,320,0.05,608.0,459.97,148.03,Corporate,UPI
+ORD-0270,2025-09-02,North,Punjab,Amritsar,Meera,Electronics,Accessories,Wireless Earbuds,3,2500,0.05,7125.0,5512.1,1612.9,Small Business,Debit Card
+ORD-0541,2025-09-05,West,Goa,Panaji,Ananya,Furniture,Tables,Study Table,3,6500,0.1,17550.0,10977.46,6572.54,Corporate,Debit Card
+ORD-0574,2025-09-05,North,Haryana,Gurugram,Ishita,Office Supplies,Stationery,Calculator,4,750,0.05,2850.0,2277.2,572.8,Small Business,Net Banking
+ORD-0158,2025-09-05,West,Maharashtra,Nagpur,Ananya,Home Appliances,Kitchen,Electric Kettle,4,1800,0.2,5760.0,3596.58,2163.42,Consumer,Debit Card
+ORD-0543,2025-09-06,South,Tamil Nadu,Coimbatore,Arjun,Electronics,Laptops,Business Laptop,6,68000,0.2,326400.0,241242.17,85157.83,Small Business,Cash
+ORD-0359,2025-09-07,West,Goa,Vasco da Gama,Meera,Electronics,Accessories,Power Bank,6,1800,0.05,10260.0,8422.55,1837.45,Consumer,Debit Card
+ORD-0102,2025-09-08,East,Jharkhand,Ranchi,Arjun,Office Supplies,Writing,Notebook,7,180,0.1,1134.0,950.15,183.85,Consumer,Credit Card
+ORD-0420,2025-09-08,East,West Bengal,Howrah,Arjun,Electronics,Accessories,Wireless Earbuds,2,2500,0.05,4750.0,3819.91,930.09,Consumer,Debit Card
+ORD-0492,2025-09-08,East,West Bengal,Kolkata,Ishita,Electronics,Accessories,Smart Watch,5,6500,0.05,30875.0,20510.94,10364.06,Consumer,UPI
+ORD-0200,2025-09-11,West,Rajasthan,Jaipur,Kabir,Furniture,Tables,Office Desk,1,14500,0.0,14500.0,9198.0,5302.0,Small Business,Credit Card
+ORD-0279,2025-09-11,East,Bihar,Gaya,Rohan,Home Appliances,Cooling,Air Cooler,4,12500,0.05,47500.0,29842.62,17657.38,Corporate,UPI
+ORD-0579,2025-09-13,West,Goa,Margao,Meera,Office Supplies,Writing,Ball Pen Set,5,250,0.0,1250.0,1039.85,210.15,Corporate,UPI
+ORD-0378,2025-09-13,East,West Bengal,Durgapur,Arjun,Home Appliances,Cooling,Tower Fan,3,7200,0.15,18360.0,13079.05,5280.95,Consumer,UPI
+ORD-0493,2025-09-16,South,Tamil Nadu,Coimbatore,Diya,Home Appliances,Kitchen,Air Fryer,6,6500,0.0,39000.0,26903.2,12096.8,Corporate,UPI
+ORD-0191,2025-09-17,North,Delhi,New Delhi,Ishita,Furniture,Chairs,Office Chair,2,7500,0.15,12750.0,9885.38,2864.62,Corporate,Credit Card
+ORD-0068,2025-09-18,East,Bihar,Muzaffarpur,Arjun,Furniture,Storage,Storage Unit,1,11500,0.05,10925.0,7865.33,3059.67,Corporate,UPI
+ORD-0182,2025-09-18,North,Uttar Pradesh,Noida,Kabir,Home Appliances,Kitchen,Electric Kettle,2,1800,0.1,3240.0,2587.42,652.58,Small Business,UPI
+ORD-0539,2025-09-18,West,Maharashtra,Pune,Ishita,Home Appliances,Kitchen,Mixer Grinder,2,4200,0.1,7560.0,5133.18,2426.82,Corporate,UPI
+ORD-0153,2025-09-20,East,Odisha,Bhubaneswar,Rohan,Furniture,Chairs,Office Chair,6,7500,0.0,45000.0,30617.95,14382.05,Corporate,Credit Card
+ORD-0382,2025-09-20,East,West Bengal,Durgapur,Arjun,Electronics,Laptops,Business Laptop,3,68000,0.1,183600.0,124798.1,58801.9,Consumer,Credit Card
+ORD-0257,2025-09-20,East,Bihar,Gaya,Ananya,Home Appliances,Kitchen,Mixer Grinder,7,4200,0.1,26460.0,18124.21,8335.79,Corporate,UPI
+ORD-0406,2025-09-20,East,Odisha,Cuttack,Kabir,Office Supplies,Paper,Photo Paper,3,900,0.0,2700.0,2204.82,495.18,Small Business,Cash
+ORD-0084,2025-09-21,East,West Bengal,Howrah,Rohan,Office Supplies,Writing,Notebook,6,180,0.05,1026.0,726.58,299.42,Consumer,Debit Card
+ORD-0086,2025-09-21,North,Haryana,Panipat,Diya,Electronics,Laptops,Laptop Air,7,58000,0.1,365400.0,297889.17,67510.83,Small Business,Cash
+ORD-0296,2025-09-23,East,Odisha,Bhubaneswar,Rohan,Furniture,Storage,Filing Cabinet,5,9200,0.0,46000.0,29704.71,16295.29,Small Business,Debit Card
+ORD-0092,2025-09-25,West,Maharashtra,Pune,Rohan,Electronics,Accessories,Wireless Earbuds,7,2500,0.15,14875.0,11177.53,3697.47,Corporate,UPI
+ORD-0029,2025-09-26,West,Goa,Panaji,Diya,Furniture,Tables,Study Table,4,6500,0.05,24700.0,19115.15,5584.85,Corporate,UPI
+ORD-0407,2025-09-26,East,Odisha,Cuttack,Aarav,Electronics,Accessories,Wireless Earbuds,5,2500,0.0,12500.0,8618.38,3881.62,Small Business,UPI
+ORD-0212,2025-09-27,South,Karnataka,Mangaluru,Diya,Furniture,Storage,Filing Cabinet,3,9200,0.05,26220.0,16498.82,9721.18,Small Business,UPI
+ORD-0556,2025-09-27,West,Rajasthan,Jaipur,Kabir,Electronics,Laptops,Laptop Air,1,58000,0.15,49300.0,33115.15,16184.85,Consumer,Credit Card
+ORD-0443,2025-09-27,South,Telangana,Warangal,Aarav,Home Appliances,Kitchen,Electric Kettle,1,1800,0.05,1710.0,1348.07,361.93,Corporate,Debit Card
+ORD-0450,2025-09-28,South,Kerala,Thiruvananthapuram,Diya,Office Supplies,Writing,Notebook,2,180,0.0,360.0,299.34,60.66,Corporate,UPI
+ORD-0584,2025-09-29,West,Rajasthan,Udaipur,Kabir,Office Supplies,Paper,A4 Paper Pack,6,450,0.05,2565.0,1610.14,954.86,Corporate,Credit Card
+ORD-0103,2025-09-29,West,Rajasthan,Udaipur,Meera,Electronics,Mobiles,Smartphone Pro,1,42000,0.05,39900.0,28950.35,10949.65,Consumer,Credit Card
+ORD-0354,2025-09-30,North,Haryana,Faridabad,Aarav,Office Supplies,Stationery,Calculator,6,750,0.0,4500.0,3352.78,1147.22,Consumer,Debit Card
+ORD-0177,2025-09-30,South,Kerala,Kozhikode,Meera,Office Supplies,Paper,Photo Paper,4,900,0.0,3600.0,2266.64,1333.36,Corporate,UPI
+ORD-0208,2025-09-30,North,Uttar Pradesh,Kanpur,Rohan,Electronics,Accessories,Smart Watch,2,6500,0.1,11700.0,8374.99,3325.01,Small Business,Net Banking
+ORD-0453,2025-09-30,East,West Bengal,Kolkata,Meera,Furniture,Tables,Conference Table,5,28000,0.15,119000.0,90764.2,28235.8,Consumer,Debit Card
+ORD-0461,2025-09-30,West,Rajasthan,Jaipur,Ishita,Furniture,Chairs,Visitor Chair,6,3200,0.0,19200.0,13161.27,6038.73,Consumer,UPI
+ORD-0417,2025-10-01,West,Maharashtra,Nagpur,Kabir,Electronics,Accessories,Smart Watch,4,6500,0.0,26000.0,16786.15,9213.85,Consumer,Credit Card
+ORD-0437,2025-10-01,East,Odisha,Cuttack,Ananya,Office Supplies,Stationery,Desk Organizer,7,550,0.0,3850.0,2825.81,1024.19,Consumer,Credit Card
+ORD-0472,2025-10-01,North,Uttar Pradesh,Kanpur,Diya,Electronics,Accessories,Wireless Earbuds,5,2500,0.05,11875.0,8100.19,3774.81,Consumer,Net Banking
+ORD-0301,2025-10-02,South,Karnataka,Mysuru,Ananya,Furniture,Tables,Office Desk,7,14500,0.15,86275.0,68771.52,17503.48,Small Business,Credit Card
+ORD-0479,2025-10-03,North,Delhi,Gurugram,Kabir,Electronics,Accessories,Wireless Earbuds,6,2500,0.0,15000.0,11735.96,3264.04,Small Business,Credit Card
+ORD-0207,2025-10-04,West,Goa,Panaji,Ananya,Electronics,Laptops,Laptop Pro,3,82000,0.15,209100.0,153813.06,55286.94,Small Business,UPI
+ORD-0525,2025-10-04,East,Jharkhand,Jamshedpur,Meera,Electronics,Mobiles,Smartphone Pro,3,42000,0.05,119700.0,92753.96,26946.04,Small Business,Net Banking
+ORD-0235,2025-10-05,East,Jharkhand,Ranchi,Ananya,Home Appliances,Kitchen,Electric Kettle,7,1800,0.0,12600.0,7897.76,4702.24,Small Business,Credit Card
+ORD-0480,2025-10-05,East,Jharkhand,Jamshedpur,Diya,Furniture,Tables,Study Table,6,6500,0.0,39000.0,31879.67,7120.33,Consumer,Net Banking
+ORD-0090,2025-10-05,North,Punjab,Jalandhar,Kabir,Furniture,Chairs,Executive Chair,5,12500,0.05,59375.0,39660.43,19714.57,Consumer,UPI
+ORD-0414,2025-10-05,South,Tamil Nadu,Chennai,Kabir,Furniture,Tables,Office Desk,7,14500,0.1,91350.0,60671.89,30678.11,Corporate,Net Banking
+ORD-0275,2025-10-05,North,Delhi,Gurugram,Diya,Furniture,Storage,Bookshelf,1,8500,0.05,8075.0,6705.4,1369.6,Corporate,UPI
+ORD-0038,2025-10-06,South,Karnataka,Bengaluru,Aarav,Office Supplies,Stationery,Calculator,5,750,0.05,3562.5,2741.58,820.92,Consumer,Credit Card
+ORD-0465,2025-10-06,South,Tamil Nadu,Coimbatore,Arjun,Electronics,Laptops,Laptop Pro,3,82000,0.05,233700.0,166154.54,67545.46,Consumer,Cash
+ORD-0563,2025-10-08,North,Haryana,Gurugram,Kabir,Electronics,Laptops,Laptop Air,7,58000,0.2,324800.0,262226.6,62573.4,Consumer,Debit Card
+ORD-0137,2025-10-09,West,Gujarat,Vadodara,Rohan,Electronics,Laptops,Laptop Pro,2,82000,0.0,164000.0,110019.2,53980.8,Corporate,UPI
+ORD-0565,2025-10-09,West,Maharashtra,Nagpur,Rohan,Home Appliances,Cooling,Tower Fan,4,7200,0.05,27360.0,19612.73,7747.27,Consumer,Net Banking
+ORD-0478,2025-10-09,East,Odisha,Rourkela,Rohan,Office Supplies,Writing,Ball Pen Set,4,250,0.2,800.0,590.27,209.73,Consumer,UPI
+ORD-0494,2025-10-09,West,Gujarat,Vadodara,Diya,Office Supplies,Writing,Ball Pen Set,5,250,0.1,1125.0,717.23,407.77,Corporate,UPI
+ORD-0544,2025-10-10,South,Tamil Nadu,Madurai,Diya,Home Appliances,Cooling,Air Cooler,5,12500,0.15,53125.0,40995.06,12129.94,Consumer,Debit Card
+ORD-0238,2025-10-11,West,Goa,Margao,Rohan,Office Supplies,Paper,Premium Paper,3,650,0.05,1852.5,1309.59,542.91,Consumer,Credit Card
+ORD-0395,2025-10-12,North,Uttar Pradesh,Kanpur,Arjun,Furniture,Tables,Conference Table,2,28000,0.1,50400.0,41951.28,8448.72,Small Business,Credit Card
+ORD-0165,2025-10-14,West,Maharashtra,Nagpur,Kabir,Office Supplies,Paper,Photo Paper,6,900,0.1,4860.0,3403.24,1456.76,Corporate,UPI
+ORD-0348,2025-10-14,South,Telangana,Hyderabad,Ishita,Office Supplies,Paper,Photo Paper,5,900,0.0,4500.0,3456.04,1043.96,Corporate,Credit Card
+ORD-0375,2025-10-15,East,Odisha,Cuttack,Diya,Home Appliances,Kitchen,Air Fryer,4,6500,0.05,24700.0,20286.44,4413.56,Small Business,Credit Card
+ORD-0025,2025-10-15,South,Telangana,Warangal,Arjun,Furniture,Storage,Filing Cabinet,2,9200,0.15,15640.0,9939.09,5700.91,Small Business,UPI
+ORD-0196,2025-10-16,West,Maharashtra,Mumbai,Aarav,Electronics,Mobiles,Budget Phone,2,14000,0.0,28000.0,21571.93,6428.07,Small Business,UPI
+ORD-0074,2025-10-16,East,Bihar,Muzaffarpur,Ishita,Home Appliances,Cleaning,Vacuum Cleaner,1,9800,0.1,8820.0,6979.14,1840.86,Consumer,Debit Card
+ORD-0246,2025-10-17,West,Gujarat,Surat,Rohan,Electronics,Accessories,Power Bank,3,1800,0.1,4860.0,3630.17,1229.83,Small Business,Credit Card
+ORD-0595,2025-10-17,South,Kerala,Kozhikode,Meera,Electronics,Laptops,Business Laptop,2,68000,0.0,136000.0,87340.17,48659.83,Small Business,Debit Card
+ORD-0093,2025-10-19,West,Gujarat,Ahmedabad,Kabir,Furniture,Tables,Office Desk,2,14500,0.0,29000.0,22688.65,6311.35,Consumer,Credit Card
+ORD-0384,2025-10-20,North,Haryana,Gurugram,Rohan,Electronics,Laptops,Laptop Pro,7,82000,0.0,574000.0,418077.37,155922.63,Consumer,Credit Card
+ORD-0198,2025-10-21,West,Gujarat,Surat,Ananya,Furniture,Storage,Bookshelf,7,8500,0.1,53550.0,33934.64,19615.36,Consumer,Cash
+ORD-0397,2025-10-21,West,Gujarat,Surat,Kabir,Home Appliances,Kitchen,Mixer Grinder,1,4200,0.15,3570.0,2696.02,873.98,Consumer,Debit Card
+ORD-0267,2025-10-21,North,Punjab,Amritsar,Ishita,Furniture,Storage,Bookshelf,2,8500,0.1,15300.0,9742.62,5557.38,Small Business,Credit Card
+ORD-0313,2025-10-22,South,Karnataka,Bengaluru,Meera,Office Supplies,Stationery,Stapler,1,280,0.1,252.0,207.97,44.03,Small Business,Credit Card
+ORD-0070,2025-10-23,West,Gujarat,Surat,Meera,Home Appliances,Cooling,Air Cooler,2,12500,0.0,25000.0,15865.73,9134.27,Corporate,Net Banking
+ORD-0300,2025-10-26,North,Haryana,Gurugram,Meera,Home Appliances,Cooling,Room Heater,7,4800,0.05,31920.0,19901.45,12018.55,Small Business,Credit Card
+ORD-0532,2025-10-27,South,Karnataka,Mysuru,Diya,Electronics,Mobiles,Smartphone Pro,3,42000,0.05,119700.0,88577.3,31122.7,Consumer,UPI
+ORD-0559,2025-10-27,South,Karnataka,Bengaluru,Kabir,Electronics,Laptops,Business Laptop,6,68000,0.1,367200.0,284936.97,82263.03,Small Business,UPI
+ORD-0533,2025-10-28,East,Odisha,Cuttack,Ananya,Furniture,Chairs,Visitor Chair,5,3200,0.1,14400.0,11677.82,2722.18,Corporate,UPI
+ORD-0210,2025-10-29,East,Jharkhand,Jamshedpur,Ananya,Furniture,Tables,Conference Table,7,28000,0.0,196000.0,154427.26,41572.74,Small Business,Net Banking
+ORD-0179,2025-10-29,South,Telangana,Hyderabad,Meera,Electronics,Accessories,Smart Watch,5,6500,0.15,27625.0,19926.43,7698.57,Corporate,UPI
+ORD-0362,2025-10-29,North,Punjab,Ludhiana,Aarav,Furniture,Tables,Study Table,7,6500,0.15,38675.0,25144.93,13530.07,Consumer,UPI
+ORD-0119,2025-10-30,East,Odisha,Rourkela,Meera,Electronics,Mobiles,Smartphone Pro,4,42000,0.0,168000.0,131187.74,36812.26,Small Business,Cash
+ORD-0136,2025-11-01,West,Maharashtra,Pune,Aarav,Electronics,Mobiles,Budget Phone,5,14000,0.05,66500.0,49035.28,17464.72,Corporate,Credit Card
+ORD-0083,2025-11-01,South,Kerala,Kochi,Rohan,Furniture,Storage,Storage Unit,3,11500,0.05,32775.0,23696.69,9078.31,Consumer,Net Banking
+ORD-0195,2025-11-01,South,Karnataka,Mysuru,Kabir,Office Supplies,Writing,Ball Pen Set,2,250,0.0,500.0,389.77,110.23,Consumer,Net Banking
+ORD-0390,2025-11-02,North,Delhi,Gurugram,Ananya,Office Supplies,Paper,Photo Paper,7,900,0.0,6300.0,4742.02,1557.98,Consumer,Net Banking
+ORD-0475,2025-11-04,West,Maharashtra,Mumbai,Ananya,Furniture,Storage,Storage Unit,3,11500,0.15,29325.0,23555.2,5769.8,Small Business,Debit Card
+ORD-0550,2025-11-06,North,Uttar Pradesh,Kanpur,Ananya,Office Supplies,Paper,A4 Paper Pack,4,450,0.0,1800.0,1236.28,563.72,Consumer,UPI
+ORD-0452,2025-11-06,East,Odisha,Rourkela,Diya,Home Appliances,Cooling,Air Cooler,1,12500,0.0,12500.0,10452.53,2047.47,Consumer,Debit Card
+ORD-0396,2025-11-10,East,Jharkhand,Ranchi,Ananya,Electronics,Laptops,Laptop Air,2,58000,0.0,116000.0,92341.27,23658.73,Consumer,Net Banking
+ORD-0287,2025-11-11,South,Kerala,Kozhikode,Rohan,Electronics,Accessories,Power Bank,6,1800,0.1,9720.0,8101.2,1618.8,Small Business,Credit Card
+ORD-0389,2025-11-12,East,West Bengal,Durgapur,Meera,Electronics,Mobiles,Smartphone Pro,3,42000,0.05,119700.0,85471.43,34228.57,Corporate,Net Banking
+ORD-0126,2025-11-13,East,Odisha,Cuttack,Kabir,Home Appliances,Cleaning,Steam Mop,7,5200,0.1,32760.0,27169.21,5590.79,Small Business,Credit Card
+ORD-0471,2025-11-14,North,Uttar Pradesh,Kanpur,Meera,Electronics,Mobiles,Smartphone X,1,28000,0.0,28000.0,20340.58,7659.42,Consumer,Net Banking
+ORD-0243,2025-11-16,East,Odisha,Bhubaneswar,Ishita,Home Appliances,Cleaning,Steam Mop,5,5200,0.0,26000.0,21108.12,4891.88,Corporate,Net Banking
+ORD-0214,2025-11-16,South,Telangana,Warangal,Aarav,Electronics,Mobiles,Smartphone X,4,28000,0.0,112000.0,75400.26,36599.74,Consumer,UPI
+ORD-0123,2025-11-16,East,West Bengal,Kolkata,Diya,Furniture,Storage,Bookshelf,1,8500,0.0,8500.0,5405.48,3094.52,Consumer,Debit Card
+ORD-0248,2025-11-17,South,Telangana,Warangal,Aarav,Electronics,Accessories,Power Bank,6,1800,0.05,10260.0,7436.61,2823.39,Corporate,Cash
+ORD-0104,2025-11-20,North,Haryana,Panipat,Diya,Furniture,Chairs,Executive Chair,1,12500,0.0,12500.0,8725.21,3774.79,Consumer,UPI
+ORD-0580,2025-11-21,South,Kerala,Kozhikode,Ishita,Electronics,Laptops,Laptop Air,4,58000,0.05,220400.0,174900.86,45499.14,Consumer,Debit Card
+ORD-0545,2025-11-22,West,Maharashtra,Nagpur,Rohan,Office Supplies,Paper,Premium Paper,5,650,0.15,2762.5,2064.49,698.01,Corporate,Debit Card
+ORD-0402,2025-11-22,North,Uttar Pradesh,Kanpur,Meera,Furniture,Storage,Filing Cabinet,5,9200,0.05,43700.0,30965.59,12734.41,Consumer,UPI
+ORD-0273,2025-11-23,North,Uttar Pradesh,Lucknow,Aarav,Electronics,Accessories,Power Bank,2,1800,0.2,2880.0,1814.06,1065.94,Corporate,UPI
+ORD-0560,2025-11-26,North,Delhi,Gurugram,Meera,Furniture,Tables,Office Desk,5,14500,0.15,61625.0,44252.61,17372.39,Small Business,Credit Card
+ORD-0262,2025-11-27,South,Karnataka,Mangaluru,Meera,Office Supplies,Paper,Photo Paper,4,900,0.15,3060.0,1913.08,1146.92,Corporate,Net Banking
+ORD-0524,2025-11-28,West,Maharashtra,Pune,Rohan,Electronics,Accessories,Smart Watch,6,6500,0.2,31200.0,19842.78,11357.22,Consumer,Debit Card
+ORD-0422,2025-11-30,North,Haryana,Panipat,Rohan,Electronics,Mobiles,Budget Phone,5,14000,0.2,56000.0,37206.69,18793.31,Consumer,Net Banking
+ORD-0317,2025-12-01,North,Uttar Pradesh,Kanpur,Ananya,Electronics,Laptops,Laptop Pro,4,82000,0.0,328000.0,256980.76,71019.24,Corporate,Cash
+ORD-0055,2025-12-01,East,Odisha,Cuttack,Ananya,Furniture,Storage,Storage Unit,2,11500,0.05,21850.0,16017.75,5832.25,Consumer,Credit Card
+ORD-0497,2025-12-02,North,Haryana,Panipat,Arjun,Electronics,Accessories,Power Bank,6,1800,0.15,9180.0,6550.95,2629.05,Consumer,UPI
+ORD-0552,2025-12-02,North,Punjab,Amritsar,Ananya,Electronics,Accessories,Power Bank,7,1800,0.0,12600.0,8289.33,4310.67,Corporate,Net Banking
+ORD-0398,2025-12-03,North,Delhi,New Delhi,Rohan,Office Supplies,Writing,Marker Set,7,320,0.0,2240.0,1726.18,513.82,Small Business,UPI
+ORD-0554,2025-12-03,West,Maharashtra,Pune,Diya,Furniture,Chairs,Visitor Chair,6,3200,0.05,18240.0,12554.26,5685.74,Small Business,Net Banking
+ORD-0474,2025-12-04,South,Tamil Nadu,Madurai,Meera,Office Supplies,Writing,Ball Pen Set,2,250,0.05,475.0,394.98,80.02,Consumer,Credit Card
+ORD-0006,2025-12-04,South,Kerala,Kozhikode,Arjun,Office Supplies,Stationery,Calculator,7,750,0.1,4725.0,3928.64,796.36,Small Business,Credit Card
+ORD-0325,2025-12-06,East,Odisha,Cuttack,Diya,Office Supplies,Stationery,Desk Organizer,4,550,0.1,1980.0,1655.93,324.07,Corporate,Credit Card
+ORD-0004,2025-12-06,East,West Bengal,Kolkata,Ananya,Electronics,Mobiles,Smartphone Pro,2,42000,0.05,79800.0,49756.3,30043.7,Consumer,UPI
+ORD-0576,2025-12-07,South,Kerala,Kochi,Rohan,Electronics,Laptops,Business Laptop,5,68000,0.15,289000.0,180024.42,108975.58,Corporate,Net Banking
+ORD-0082,2025-12-08,South,Karnataka,Mysuru,Ananya,Office Supplies,Stationery,Stapler,4,280,0.1,1008.0,748.55,259.45,Corporate,UPI
+ORD-0222,2025-12-10,South,Tamil Nadu,Chennai,Rohan,Furniture,Tables,Office Desk,3,14500,0.0,43500.0,29628.76,13871.24,Consumer,Net Banking
+ORD-0141,2025-12-11,West,Gujarat,Vadodara,Ishita,Office Supplies,Writing,Notebook,1,180,0.15,153.0,123.96,29.04,Small Business,Debit Card
+ORD-0409,2025-12-14,West,Gujarat,Ahmedabad,Aarav,Electronics,Accessories,Wireless Earbuds,4,2500,0.0,10000.0,6334.43,3665.57,Consumer,UPI
+ORD-0527,2025-12-14,East,Jharkhand,Ranchi,Kabir,Electronics,Mobiles,Smartphone Pro,1,42000,0.15,35700.0,23907.74,11792.26,Small Business,Credit Card
+ORD-0421,2025-12-15,North,Haryana,Panipat,Kabir,Office Supplies,Paper,Photo Paper,3,900,0.0,2700.0,1910.29,789.71,Small Business,UPI
+ORD-0085,2025-12-15,South,Telangana,Warangal,Meera,Furniture,Chairs,Visitor Chair,7,3200,0.0,22400.0,17416.31,4983.69,Consumer,UPI
+ORD-0338,2025-12-16,West,Maharashtra,Pune,Rohan,Electronics,Accessories,Wireless Earbuds,7,2500,0.05,16625.0,12755.5,3869.5,Consumer,Credit Card
+ORD-0211,2025-12-20,West,Rajasthan,Jaipur,Meera,Home Appliances,Cooling,Air Cooler,6,12500,0.1,67500.0,50172.54,17327.46,Consumer,UPI
+ORD-0112,2025-12-22,East,Jharkhand,Ranchi,Arjun,Electronics,Mobiles,Smartphone X,3,28000,0.05,79800.0,65804.67,13995.33,Corporate,UPI
+ORD-0228,2025-12-23,North,Delhi,New Delhi,Rohan,Furniture,Storage,Storage Unit,1,11500,0.0,11500.0,8140.4,3359.6,Small Business,UPI
+ORD-0269,2025-12-23,West,Goa,Margao,Aarav,Electronics,Accessories,Power Bank,2,1800,0.1,3240.0,2164.99,1075.01,Small Business,UPI
+ORD-0047,2025-12-24,East,Bihar,Patna,Ananya,Office Supplies,Writing,Marker Set,7,320,0.0,2240.0,1527.26,712.74,Consumer,UPI
+ORD-0057,2025-12-26,South,Telangana,Nizamabad,Ananya,Electronics,Accessories,Power Bank,3,1800,0.0,5400.0,4109.36,1290.64,Consumer,Net Banking
+ORD-0135,2025-12-27,West,Goa,Panaji,Aarav,Electronics,Accessories,Power Bank,2,1800,0.0,3600.0,2366.45,1233.55,Consumer,Credit Card
+ORD-0292,2025-12-27,East,Odisha,Rourkela,Aarav,Furniture,Tables,Study Table,4,6500,0.05,24700.0,16815.52,7884.48,Consumer,Credit Card
+ORD-0061,2025-12-29,East,Odisha,Bhubaneswar,Arjun,Electronics,Accessories,Power Bank,7,1800,0.1,11340.0,9137.51,2202.49,Consumer,Net Banking
+ORD-0381,2025-12-30,North,Haryana,Gurugram,Kabir,Electronics,Accessories,Wireless Earbuds,3,2500,0.1,6750.0,4201.78,2548.22,Consumer,UPI
+ORD-0542,2025-12-31,East,West Bengal,Kolkata,Ishita,Electronics,Laptops,Laptop Pro,5,82000,0.1,369000.0,299375.46,69624.54,Consumer,Net Banking
+ORD-0599,2026-01-02,North,Uttar Pradesh,Kanpur,Diya,Home Appliances,Kitchen,Electric Kettle,6,1800,0.15,9180.0,6810.66,2369.34,Small Business,UPI
+ORD-0277,2026-01-03,South,Karnataka,Mangaluru,Kabir,Furniture,Storage,Filing Cabinet,4,9200,0.05,34960.0,23638.83,11321.17,Corporate,UPI
+ORD-0449,2026-01-03,South,Kerala,Kochi,Rohan,Home Appliances,Cooling,Room Heater,6,4800,0.05,27360.0,19784.94,7575.06,Small Business,UPI
+ORD-0423,2026-01-04,West,Gujarat,Ahmedabad,Aarav,Home Appliances,Kitchen,Mixer Grinder,4,4200,0.0,16800.0,13912.31,2887.69,Small Business,Cash
+ORD-0013,2026-01-09,South,Telangana,Nizamabad,Meera,Electronics,Accessories,Wireless Earbuds,6,2500,0.05,14250.0,9210.78,5039.22,Corporate,Debit Card
+ORD-0229,2026-01-10,South,Kerala,Kochi,Aarav,Electronics,Mobiles,Smartphone Pro,3,42000,0.05,119700.0,91935.9,27764.1,Consumer,Net Banking
+ORD-0334,2026-01-10,East,Odisha,Cuttack,Kabir,Office Supplies,Paper,Premium Paper,6,650,0.0,3900.0,3006.07,893.93,Corporate,Net Banking
+ORD-0487,2026-01-10,South,Tamil Nadu,Chennai,Ishita,Office Supplies,Writing,Notebook,5,180,0.1,810.0,562.13,247.87,Consumer,Credit Card
+ORD-0199,2026-01-11,West,Maharashtra,Nagpur,Meera,Home Appliances,Cleaning,Robot Vacuum,4,26000,0.15,88400.0,64909.02,23490.98,Small Business,Net Banking
+ORD-0064,2026-01-12,East,Odisha,Bhubaneswar,Aarav,Electronics,Laptops,Laptop Pro,3,82000,0.05,233700.0,195614.7,38085.3,Consumer,UPI
+ORD-0361,2026-01-13,West,Rajasthan,Udaipur,Rohan,Electronics,Accessories,Power Bank,7,1800,0.0,12600.0,9031.84,3568.16,Consumer,Net Banking
+ORD-0163,2026-01-16,East,West Bengal,Howrah,Ananya,Electronics,Accessories,Smart Watch,1,6500,0.1,5850.0,4611.31,1238.69,Corporate,Credit Card
+ORD-0012,2026-01-20,West,Goa,Margao,Aarav,Home Appliances,Cleaning,Robot Vacuum,4,26000,0.05,98800.0,80966.82,17833.18,Corporate,UPI
+ORD-0088,2026-01-21,North,Delhi,Gurugram,Kabir,Furniture,Tables,Office Desk,1,14500,0.15,12325.0,8568.34,3756.66,Corporate,UPI
+ORD-0121,2026-01-22,West,Gujarat,Ahmedabad,Rohan,Home Appliances,Kitchen,Electric Kettle,3,1800,0.15,4590.0,3614.28,975.72,Consumer,UPI
+ORD-0259,2026-01-22,East,West Bengal,Kolkata,Arjun,Home Appliances,Cleaning,Steam Mop,1,5200,0.0,5200.0,3697.21,1502.79,Consumer,Net Banking
+ORD-0307,2026-01-24,East,West Bengal,Kolkata,Ananya,Office Supplies,Writing,Ball Pen Set,5,250,0.05,1187.5,974.98,212.52,Corporate,Credit Card
+ORD-0415,2026-01-25,South,Karnataka,Bengaluru,Ishita,Electronics,Mobiles,Smartphone X,7,28000,0.15,166600.0,138878.9,27721.1,Corporate,Net Banking
+ORD-0021,2026-01-27,South,Telangana,Hyderabad,Arjun,Electronics,Mobiles,Smartphone X,6,28000,0.05,159600.0,125162.81,34437.19,Corporate,UPI
+ORD-0239,2026-01-30,North,Uttar Pradesh,Noida,Arjun,Home Appliances,Cooling,Tower Fan,5,7200,0.1,32400.0,20358.73,12041.27,Consumer,Net Banking
+ORD-0256,2026-02-01,South,Telangana,Warangal,Ananya,Office Supplies,Stationery,Stapler,4,280,0.15,952.0,629.2,322.8,Small Business,UPI
+ORD-0548,2026-02-01,North,Delhi,Noida,Diya,Furniture,Storage,Filing Cabinet,3,9200,0.15,23460.0,19334.87,4125.13,Consumer,Cash
+ORD-0343,2026-02-03,West,Gujarat,Ahmedabad,Diya,Furniture,Chairs,Executive Chair,5,12500,0.05,59375.0,43960.79,15414.21,Consumer,Credit Card
+ORD-0328,2026-02-04,West,Rajasthan,Jaipur,Rohan,Office Supplies,Paper,Premium Paper,3,650,0.2,1560.0,1050.08,509.92,Consumer,Cash
+ORD-0321,2026-02-04,North,Uttar Pradesh,Lucknow,Arjun,Furniture,Chairs,Visitor Chair,4,3200,0.05,12160.0,7963.7,4196.3,Corporate,Credit Card
+ORD-0124,2026-02-05,South,Tamil Nadu,Chennai,Ananya,Home Appliances,Cleaning,Vacuum Cleaner,3,9800,0.1,26460.0,17016.02,9443.98,Small Business,UPI
+ORD-0433,2026-02-05,East,West Bengal,Kolkata,Ananya,Home Appliances,Cleaning,Vacuum Cleaner,5,9800,0.05,46550.0,32110.53,14439.47,Corporate,UPI
+ORD-0507,2026-02-06,North,Uttar Pradesh,Lucknow,Ishita,Furniture,Chairs,Executive Chair,5,12500,0.15,53125.0,36501.06,16623.94,Consumer,UPI
+ORD-0185,2026-02-09,South,Kerala,Kozhikode,Diya,Home Appliances,Cooling,Tower Fan,5,7200,0.1,32400.0,20101.4,12298.6,Corporate,Credit Card
+ORD-0094,2026-02-10,South,Kerala,Kochi,Rohan,Office Supplies,Stationery,Calculator,2,750,0.05,1425.0,1182.61,242.39,Consumer,UPI
+ORD-0218,2026-02-10,East,Jharkhand,Jamshedpur,Meera,Furniture,Storage,Storage Unit,1,11500,0.05,10925.0,7169.66,3755.34,Small Business,Credit Card
+ORD-0192,2026-02-12,South,Tamil Nadu,Coimbatore,Ananya,Electronics,Laptops,Laptop Air,7,58000,0.15,345100.0,249801.77,95298.23,Consumer,UPI
+ORD-0405,2026-02-15,North,Haryana,Panipat,Kabir,Home Appliances,Cooling,Room Heater,7,4800,0.05,31920.0,24269.11,7650.89,Consumer,Credit Card
+ORD-0419,2026-02-16,West,Gujarat,Ahmedabad,Meera,Furniture,Chairs,Visitor Chair,3,3200,0.2,7680.0,5675.87,2004.13,Consumer,Debit Card
+ORD-0265,2026-02-16,West,Maharashtra,Pune,Kabir,Electronics,Accessories,Power Bank,5,1800,0.15,7650.0,5813.31,1836.69,Consumer,UPI
+ORD-0413,2026-02-17,South,Telangana,Warangal,Meera,Furniture,Storage,Storage Unit,6,11500,0.0,69000.0,45392.27,23607.73,Corporate,Net Banking
+ORD-0564,2026-02-17,North,Haryana,Panipat,Arjun,Electronics,Laptops,Business Laptop,6,68000,0.1,367200.0,243790.81,123409.19,Corporate,UPI
+ORD-0506,2026-02-19,East,Odisha,Bhubaneswar,Diya,Home Appliances,Kitchen,Electric Kettle,5,1800,0.05,8550.0,6952.05,1597.95,Small Business,Credit Card
+ORD-0015,2026-02-20,North,Delhi,New Delhi,Arjun,Office Supplies,Writing,Notebook,5,180,0.1,810.0,677.84,132.16,Corporate,Debit Card
+ORD-0285,2026-02-22,North,Haryana,Panipat,Kabir,Home Appliances,Cooling,Room Heater,2,4800,0.1,8640.0,6994.7,1645.3,Consumer,UPI
+ORD-0036,2026-02-22,North,Haryana,Faridabad,Kabir,Office Supplies,Paper,Premium Paper,5,650,0.15,2762.5,1726.89,1035.61,Consumer,UPI
+ORD-0069,2026-02-23,East,Jharkhand,Ranchi,Ishita,Electronics,Mobiles,Smartphone X,1,28000,0.1,25200.0,18238.42,6961.58,Consumer,Net Banking
+ORD-0517,2026-02-23,South,Kerala,Thiruvananthapuram,Ishita,Electronics,Mobiles,Smartphone X,7,28000,0.0,196000.0,131853.53,64146.47,Corporate,UPI
+ORD-0167,2026-02-24,North,Uttar Pradesh,Lucknow,Ananya,Furniture,Storage,Bookshelf,5,8500,0.1,38250.0,26292.12,11957.88,Small Business,Debit Card
+ORD-0225,2026-02-24,West,Rajasthan,Udaipur,Diya,Electronics,Laptops,Laptop Pro,2,82000,0.1,147600.0,117501.12,30098.88,Consumer,Credit Card
+ORD-0496,2026-02-25,South,Telangana,Nizamabad,Arjun,Electronics,Mobiles,Smartphone Pro,1,42000,0.05,39900.0,30845.69,9054.31,Consumer,Credit Card
+ORD-0566,2026-02-26,East,Bihar,Patna,Diya,Furniture,Tables,Study Table,6,6500,0.15,33150.0,25673.29,7476.71,Small Business,Net Banking
+ORD-0346,2026-02-26,South,Telangana,Warangal,Meera,Electronics,Accessories,Wireless Earbuds,5,2500,0.1,11250.0,7324.53,3925.47,Consumer,UPI
+ORD-0374,2026-02-27,West,Gujarat,Ahmedabad,Ananya,Office Supplies,Stationery,Calculator,2,750,0.05,1425.0,897.0,528.0,Consumer,Net Banking
+ORD-0308,2026-03-01,South,Kerala,Kochi,Ishita,Electronics,Mobiles,Smartphone X,6,28000,0.1,151200.0,110480.2,40719.8,Corporate,Net Banking
+ORD-0233,2026-03-06,North,Punjab,Ludhiana,Ishita,Electronics,Accessories,Power Bank,3,1800,0.0,5400.0,3465.97,1934.03,Small Business,Credit Card
+ORD-0152,2026-03-08,North,Uttar Pradesh,Kanpur,Rohan,Furniture,Tables,Study Table,7,6500,0.05,43225.0,35065.72,8159.28,Corporate,Debit Card
+ORD-0051,2026-03-13,North,Delhi,Gurugram,Arjun,Electronics,Mobiles,Budget Phone,6,14000,0.1,75600.0,55759.25,19840.75,Corporate,Net Banking
+ORD-0022,2026-03-14,East,Bihar,Muzaffarpur,Meera,Office Supplies,Writing,Notebook,6,180,0.2,864.0,610.4,253.6,Corporate,Net Banking
+ORD-0335,2026-03-14,West,Gujarat,Surat,Diya,Furniture,Tables,Office Desk,5,14500,0.0,72500.0,54083.09,18416.91,Corporate,UPI
+ORD-0366,2026-03-15,South,Telangana,Warangal,Ishita,Furniture,Storage,Filing Cabinet,7,9200,0.0,64400.0,40314.08,24085.92,Consumer,Debit Card
+ORD-0436,2026-03-15,East,Bihar,Muzaffarpur,Diya,Furniture,Tables,Conference Table,1,28000,0.1,25200.0,16626.27,8573.73,Consumer,Credit Card
+ORD-0232,2026-03-16,South,Telangana,Warangal,Ananya,Furniture,Chairs,Executive Chair,5,12500,0.1,56250.0,45291.33,10958.67,Corporate,UPI
+ORD-0251,2026-03-17,South,Karnataka,Mysuru,Arjun,Electronics,Laptops,Business Laptop,3,68000,0.05,193800.0,137314.71,56485.29,Consumer,Net Banking
+ORD-0476,2026-03-18,West,Goa,Panaji,Meera,Office Supplies,Paper,A4 Paper Pack,1,450,0.05,427.5,328.42,99.08,Corporate,Credit Card
+ORD-0364,2026-03-19,West,Goa,Vasco da Gama,Rohan,Electronics,Mobiles,Smartphone Pro,5,42000,0.0,210000.0,146903.21,63096.79,Corporate,UPI
+ORD-0481,2026-03-19,East,Bihar,Muzaffarpur,Rohan,Furniture,Storage,Filing Cabinet,4,9200,0.15,31280.0,20000.11,11279.89,Consumer,Credit Card
+ORD-0569,2026-03-19,South,Tamil Nadu,Coimbatore,Ishita,Office Supplies,Writing,Marker Set,6,320,0.05,1824.0,1142.21,681.79,Consumer,Debit Card
+ORD-0488,2026-03-19,West,Goa,Vasco da Gama,Diya,Electronics,Mobiles,Smartphone Pro,5,42000,0.05,199500.0,143772.98,55727.02,Consumer,UPI
+ORD-0365,2026-03-21,West,Gujarat,Ahmedabad,Rohan,Office Supplies,Stationery,Calculator,3,750,0.1,2025.0,1301.5,723.5,Small Business,Cash
+ORD-0451,2026-03-22,South,Telangana,Hyderabad,Arjun,Electronics,Mobiles,Smartphone Pro,4,42000,0.1,151200.0,126202.31,24997.69,Consumer,UPI
+ORD-0510,2026-03-22,West,Maharashtra,Pune,Rohan,Furniture,Chairs,Executive Chair,3,12500,0.0,37500.0,29713.89,7786.11,Corporate,Cash
+ORD-0503,2026-03-22,South,Kerala,Thiruvananthapuram,Ishita,Electronics,Accessories,Smart Watch,2,6500,0.1,11700.0,7296.88,4403.12,Corporate,UPI
+ORD-0344,2026-03-23,West,Maharashtra,Mumbai,Ananya,Home Appliances,Cleaning,Robot Vacuum,5,26000,0.1,117000.0,91629.85,25370.15,Consumer,Net Banking
+ORD-0031,2026-03-23,West,Rajasthan,Jodhpur,Rohan,Electronics,Laptops,Laptop Air,5,58000,0.05,275500.0,228684.38,46815.62,Corporate,Credit Card
+ORD-0358,2026-03-23,South,Telangana,Warangal,Ananya,Electronics,Accessories,Wireless Earbuds,2,2500,0.05,4750.0,3817.13,932.87,Consumer,Credit Card
+ORD-0073,2026-03-24,North,Uttar Pradesh,Noida,Ananya,Furniture,Tables,Office Desk,3,14500,0.1,39150.0,27157.54,11992.46,Corporate,Debit Card
+ORD-0052,2026-03-25,West,Maharashtra,Mumbai,Aarav,Furniture,Tables,Study Table,3,6500,0.05,18525.0,12330.06,6194.94,Corporate,UPI
+ORD-0049,2026-03-26,East,West Bengal,Kolkata,Diya,Home Appliances,Kitchen,Air Fryer,2,6500,0.05,12350.0,9236.02,3113.98,Small Business,Net Banking
+ORD-0291,2026-03-28,West,Gujarat,Surat,Aarav,Furniture,Storage,Filing Cabinet,5,9200,0.0,46000.0,30598.66,15401.34,Corporate,Debit Card
+ORD-0224,2026-03-29,West,Goa,Panaji,Meera,Office Supplies,Paper,A4 Paper Pack,5,450,0.1,2025.0,1680.52,344.48,Small Business,UPI
+ORD-0110,2026-03-30,South,Tamil Nadu,Chennai,Rohan,Office Supplies,Writing,Marker Set,6,320,0.05,1824.0,1421.17,402.83,Consumer,Debit Card
+ORD-0037,2026-04-02,East,West Bengal,Durgapur,Meera,Home Appliances,Kitchen,Mixer Grinder,5,4200,0.05,19950.0,13147.78,6802.22,Small Business,Cash
+ORD-0001,2026-04-04,South,Tamil Nadu,Madurai,Meera,Office Supplies,Paper,A4 Paper Pack,7,450,0.05,2992.5,1921.17,1071.33,Consumer,UPI
+ORD-0002,2026-04-05,East,West Bengal,Howrah,Diya,Office Supplies,Writing,Notebook,2,180,0.0,360.0,237.73,122.27,Corporate,Credit Card
+ORD-0526,2026-04-06,South,Kerala,Kochi,Ananya,Electronics,Laptops,Business Laptop,7,68000,0.05,452200.0,323364.07,128835.93,Corporate,UPI
+ORD-0557,2026-04-07,North,Delhi,Noida,Aarav,Home Appliances,Cooling,Tower Fan,1,7200,0.15,6120.0,3897.8,2222.2,Small Business,Net Banking
+ORD-0009,2026-04-07,North,Haryana,Faridabad,Kabir,Electronics,Accessories,Smart Watch,3,6500,0.1,17550.0,12359.48,5190.52,Corporate,Credit Card
+ORD-0337,2026-04-10,North,Delhi,Gurugram,Arjun,Electronics,Accessories,Wireless Earbuds,3,2500,0.05,7125.0,4756.44,2368.56,Corporate,Debit Card
+ORD-0260,2026-04-10,South,Tamil Nadu,Madurai,Meera,Home Appliances,Cleaning,Steam Mop,6,5200,0.15,26520.0,19096.58,7423.42,Consumer,Net Banking
+ORD-0582,2026-04-11,South,Telangana,Hyderabad,Arjun,Electronics,Mobiles,Smartphone Pro,3,42000,0.15,107100.0,74435.85,32664.15,Consumer,UPI
+ORD-0160,2026-04-11,North,Haryana,Gurugram,Arjun,Furniture,Storage,Storage Unit,4,11500,0.05,43700.0,36154.11,7545.89,Consumer,Net Banking
+ORD-0220,2026-04-12,East,Odisha,Cuttack,Ananya,Electronics,Mobiles,Smartphone X,4,28000,0.1,100800.0,82618.06,18181.94,Consumer,Credit Card
+ORD-0520,2026-04-13,West,Goa,Vasco da Gama,Meera,Furniture,Tables,Study Table,6,6500,0.05,37050.0,30270.67,6779.33,Consumer,UPI
+ORD-0578,2026-04-13,West,Goa,Margao,Arjun,Electronics,Laptops,Business Laptop,5,68000,0.0,340000.0,219734.78,120265.22,Consumer,Debit Card
+ORD-0040,2026-04-14,West,Rajasthan,Jodhpur,Ananya,Office Supplies,Paper,A4 Paper Pack,3,450,0.1,1215.0,901.3,313.7,Small Business,Net Banking
+ORD-0063,2026-04-15,West,Goa,Panaji,Diya,Office Supplies,Stationery,Stapler,5,280,0.1,1260.0,943.14,316.86,Corporate,Credit Card
+ORD-0596,2026-04-15,North,Delhi,Noida,Diya,Home Appliances,Kitchen,Electric Kettle,4,1800,0.1,6480.0,4019.41,2460.59,Consumer,Net Banking
+ORD-0458,2026-04-15,East,Odisha,Cuttack,Diya,Furniture,Storage,Storage Unit,2,11500,0.2,18400.0,14462.5,3937.5,Corporate,Cash
+ORD-0352,2026-04-16,North,Haryana,Gurugram,Meera,Furniture,Storage,Bookshelf,4,8500,0.1,30600.0,22346.59,8253.41,Consumer,Credit Card
+ORD-0034,2026-04-20,West,Goa,Panaji,Ananya,Furniture,Chairs,Visitor Chair,2,3200,0.0,6400.0,4792.77,1607.23,Corporate,Credit Card
+ORD-0462,2026-04-22,West,Gujarat,Vadodara,Ishita,Office Supplies,Stationery,Stapler,4,280,0.0,1120.0,881.88,238.12,Consumer,Cash
+ORD-0005,2026-04-22,South,Telangana,Nizamabad,Arjun,Home Appliances,Cleaning,Steam Mop,6,5200,0.1,28080.0,20786.96,7293.04,Small Business,Credit Card
+ORD-0546,2026-04-23,West,Goa,Margao,Aarav,Office Supplies,Stationery,Stapler,1,280,0.05,266.0,220.98,45.02,Consumer,Debit Card
+ORD-0505,2026-04-23,West,Goa,Margao,Ananya,Furniture,Storage,Bookshelf,7,8500,0.05,56525.0,46720.9,9804.1,Consumer,Debit Card
+ORD-0412,2026-04-23,South,Kerala,Kochi,Diya,Office Supplies,Paper,Photo Paper,6,900,0.0,5400.0,4004.21,1395.79,Small Business,Credit Card
+ORD-0320,2026-04-25,West,Rajasthan,Jaipur,Diya,Furniture,Chairs,Executive Chair,2,12500,0.15,21250.0,16689.42,4560.58,Corporate,UPI
+ORD-0594,2026-04-25,East,Odisha,Cuttack,Arjun,Furniture,Chairs,Executive Chair,2,12500,0.1,22500.0,16463.37,6036.63,Consumer,Credit Card
+ORD-0283,2026-04-25,North,Haryana,Faridabad,Diya,Office Supplies,Stationery,Calculator,7,750,0.1,4725.0,3208.97,1516.03,Consumer,Credit Card
+ORD-0159,2026-04-26,North,Punjab,Amritsar,Arjun,Home Appliances,Kitchen,Mixer Grinder,4,4200,0.15,14280.0,11080.19,3199.81,Consumer,Credit Card
+ORD-0349,2026-04-26,East,Jharkhand,Ranchi,Aarav,Office Supplies,Writing,Notebook,1,180,0.1,162.0,127.18,34.82,Consumer,UPI
+ORD-0425,2026-04-26,South,Telangana,Nizamabad,Ananya,Office Supplies,Stationery,Desk Organizer,7,550,0.05,3657.5,2793.06,864.44,Consumer,UPI
+ORD-0217,2026-04-27,South,Tamil Nadu,Madurai,Meera,Furniture,Chairs,Office Chair,1,7500,0.15,6375.0,4891.05,1483.95,Small Business,UPI
+ORD-0429,2026-04-28,South,Kerala,Thiruvananthapuram,Meera,Electronics,Laptops,Laptop Air,5,58000,0.1,261000.0,169858.08,91141.92,Corporate,Credit Card
+ORD-0244,2026-05-03,South,Telangana,Warangal,Arjun,Home Appliances,Cooling,Room Heater,3,4800,0.05,13680.0,11475.09,2204.91,Consumer,UPI
+ORD-0017,2026-05-04,West,Goa,Vasco da Gama,Aarav,Electronics,Laptops,Business Laptop,7,68000,0.05,452200.0,344548.37,107651.63,Consumer,Credit Card
+ORD-0098,2026-05-04,East,West Bengal,Durgapur,Rohan,Office Supplies,Writing,Ball Pen Set,2,250,0.1,450.0,300.9,149.1,Corporate,UPI
+ORD-0431,2026-05-06,South,Karnataka,Mangaluru,Diya,Electronics,Accessories,Power Bank,3,1800,0.05,5130.0,3584.43,1545.57,Corporate,UPI
+ORD-0528,2026-05-08,North,Haryana,Panipat,Ananya,Home Appliances,Kitchen,Electric Kettle,7,1800,0.0,12600.0,8101.44,4498.56,Corporate,Credit Card
+ORD-0216,2026-05-09,West,Rajasthan,Udaipur,Diya,Furniture,Tables,Study Table,6,6500,0.05,37050.0,25153.65,11896.35,Corporate,Debit Card
+ORD-0469,2026-05-09,North,Punjab,Jalandhar,Kabir,Office Supplies,Paper,Photo Paper,6,900,0.15,4590.0,3051.89,1538.11,Small Business,UPI
+ORD-0553,2026-05-10,West,Maharashtra,Pune,Kabir,Office Supplies,Writing,Notebook,3,180,0.1,486.0,325.51,160.49,Corporate,UPI
+ORD-0411,2026-05-11,West,Gujarat,Vadodara,Rohan,Office Supplies,Writing,Ball Pen Set,1,250,0.0,250.0,169.44,80.56,Consumer,Net Banking
+ORD-0439,2026-05-11,West,Maharashtra,Mumbai,Arjun,Electronics,Mobiles,Smartphone Pro,5,42000,0.05,199500.0,162302.33,37197.67,Consumer,Net Banking
+ORD-0101,2026-05-12,South,Telangana,Hyderabad,Ananya,Furniture,Tables,Conference Table,7,28000,0.0,196000.0,135115.32,60884.68,Corporate,UPI
+ORD-0568,2026-05-16,East,Odisha,Rourkela,Arjun,Electronics,Accessories,Smart Watch,1,6500,0.1,5850.0,4202.13,1647.87,Consumer,UPI
+ORD-0261,2026-05-16,East,Odisha,Rourkela,Aarav,Furniture,Chairs,Executive Chair,5,12500,0.05,59375.0,37041.78,22333.22,Corporate,Credit Card
+ORD-0081,2026-05-16,West,Maharashtra,Nagpur,Meera,Electronics,Accessories,Power Bank,6,1800,0.0,10800.0,7880.12,2919.88,Consumer,Net Banking
+ORD-0434,2026-05-18,North,Punjab,Jalandhar,Rohan,Electronics,Laptops,Laptop Pro,5,82000,0.05,389500.0,250459.68,139040.32,Consumer,UPI
+ORD-0201,2026-05-19,South,Karnataka,Mangaluru,Ananya,Office Supplies,Paper,Photo Paper,2,900,0.0,1800.0,1290.66,509.34,Corporate,UPI
+ORD-0435,2026-05-23,East,West Bengal,Kolkata,Ishita,Electronics,Accessories,Smart Watch,1,6500,0.0,6500.0,4062.27,2437.73,Corporate,Net Banking
+ORD-0519,2026-05-23,West,Rajasthan,Jaipur,Ishita,Furniture,Tables,Conference Table,6,28000,0.1,151200.0,106675.99,44524.01,Consumer,Credit Card
+ORD-0302,2026-05-24,North,Punjab,Amritsar,Ishita,Office Supplies,Stationery,Calculator,3,750,0.15,1912.5,1365.62,546.88,Corporate,UPI
+ORD-0168,2026-05-25,West,Rajasthan,Jodhpur,Arjun,Office Supplies,Stationery,Desk Organizer,3,550,0.05,1567.5,1257.23,310.27,Consumer,Credit Card
+ORD-0501,2026-05-25,West,Goa,Margao,Arjun,Home Appliances,Cooling,Air Cooler,5,12500,0.15,53125.0,41596.41,11528.59,Corporate,UPI
+ORD-0170,2026-05-25,West,Goa,Panaji,Ananya,Electronics,Accessories,Power Bank,5,1800,0.15,7650.0,4908.07,2741.93,Small Business,UPI
+ORD-0023,2026-05-27,South,Kerala,Thiruvananthapuram,Aarav,Furniture,Chairs,Office Chair,3,7500,0.1,20250.0,15978.91,4271.09,Small Business,Credit Card
+ORD-0215,2026-05-29,East,Bihar,Patna,Aarav,Electronics,Laptops,Laptop Air,4,58000,0.0,232000.0,188614.3,43385.7,Consumer,UPI
+ORD-0227,2026-05-29,North,Punjab,Jalandhar,Rohan,Home Appliances,Kitchen,Electric Kettle,4,1800,0.0,7200.0,5474.4,1725.6,Consumer,Credit Card
+ORD-0467,2026-05-30,South,Karnataka,Bengaluru,Diya,Electronics,Accessories,Power Bank,7,1800,0.1,11340.0,8154.16,3185.84,Corporate,Net Banking
+ORD-0377,2026-05-30,North,Uttar Pradesh,Kanpur,Aarav,Home Appliances,Cooling,Tower Fan,1,7200,0.05,6840.0,5419.51,1420.49,Corporate,Debit Card
+ORD-0280,2026-05-30,South,Karnataka,Mysuru,Meera,Electronics,Laptops,Business Laptop,7,68000,0.05,452200.0,310601.42,141598.58,Consumer,Debit Card
+ORD-0181,2026-05-30,North,Haryana,Panipat,Arjun,Home Appliances,Kitchen,Air Fryer,3,6500,0.15,16575.0,12987.39,3587.61,Consumer,UPI
+ORD-0140,2026-06-01,West,Goa,Vasco da Gama,Arjun,Electronics,Mobiles,Smartphone X,7,28000,0.1,176400.0,126589.06,49810.94,Consumer,Debit Card
+ORD-0155,2026-06-01,West,Rajasthan,Jaipur,Ananya,Electronics,Accessories,Smart Watch,1,6500,0.1,5850.0,4196.38,1653.62,Consumer,Credit Card
+ORD-0336,2026-06-03,East,Jharkhand,Ranchi,Meera,Furniture,Tables,Study Table,4,6500,0.15,22100.0,17994.73,4105.27,Small Business,Net Banking
+ORD-0383,2026-06-04,North,Uttar Pradesh,Lucknow,Rohan,Home Appliances,Kitchen,Electric Kettle,5,1800,0.05,8550.0,5788.91,2761.09,Consumer,UPI
+ORD-0122,2026-06-05,West,Rajasthan,Jodhpur,Ishita,Furniture,Tables,Office Desk,7,14500,0.0,101500.0,78238.67,23261.33,Consumer,UPI
+ORD-0120,2026-06-08,West,Maharashtra,Nagpur,Diya,Electronics,Laptops,Laptop Pro,7,82000,0.1,516600.0,343063.22,173536.78,Small Business,Credit Card
+ORD-0100,2026-06-10,West,Gujarat,Vadodara,Arjun,Home Appliances,Cooling,Room Heater,2,4800,0.1,8640.0,6581.95,2058.05,Consumer,Credit Card
+ORD-0264,2026-06-13,East,Jharkhand,Ranchi,Kabir,Electronics,Laptops,Business Laptop,7,68000,0.1,428400.0,338831.91,89568.09,Corporate,Debit Card
+ORD-0314,2026-06-13,North,Punjab,Ludhiana,Kabir,Office Supplies,Writing,Ball Pen Set,7,250,0.05,1662.5,1037.38,625.12,Consumer,Credit Card
+ORD-0132,2026-06-14,West,Gujarat,Vadodara,Meera,Electronics,Accessories,Smart Watch,6,6500,0.05,37050.0,26099.74,10950.26,Small Business,UPI
+ORD-0455,2026-06-14,North,Haryana,Faridabad,Arjun,Home Appliances,Cleaning,Steam Mop,7,5200,0.15,30940.0,24171.23,6768.77,Small Business,Credit Card
+ORD-0391,2026-06-15,West,Maharashtra,Nagpur,Diya,Electronics,Laptops,Business Laptop,2,68000,0.1,122400.0,89665.4,32734.6,Consumer,UPI
+ORD-0151,2026-06-15,North,Punjab,Amritsar,Ananya,Electronics,Laptops,Laptop Air,2,58000,0.05,110200.0,75647.15,34552.85,Consumer,Debit Card
+ORD-0046,2026-06-16,East,Bihar,Patna,Aarav,Electronics,Mobiles,Budget Phone,4,14000,0.0,56000.0,41543.48,14456.52,Corporate,Debit Card
+ORD-0058,2026-06-18,South,Tamil Nadu,Coimbatore,Rohan,Office Supplies,Stationery,Desk Organizer,5,550,0.0,2750.0,1873.55,876.45,Corporate,Credit Card
+ORD-0386,2026-06-18,North,Uttar Pradesh,Kanpur,Ananya,Furniture,Storage,Filing Cabinet,5,9200,0.05,43700.0,36477.58,7222.42,Small Business,UPI
+ORD-0463,2026-06-19,South,Tamil Nadu,Madurai,Arjun,Home Appliances,Cleaning,Vacuum Cleaner,4,9800,0.15,33320.0,27323.22,5996.78,Consumer,UPI
+ORD-0470,2026-06-21,North,Haryana,Gurugram,Rohan,Electronics,Accessories,Smart Watch,7,6500,0.1,40950.0,33079.57,7870.43,Consumer,UPI
+ORD-0205,2026-06-21,East,West Bengal,Howrah,Kabir,Electronics,Laptops,Laptop Pro,7,82000,0.1,516600.0,335047.04,181552.96,Corporate,Debit Card
+ORD-0026,2026-06-22,East,Odisha,Cuttack,Kabir,Office Supplies,Paper,A4 Paper Pack,3,450,0.1,1215.0,901.07,313.93,Consumer,Debit Card
+ORD-0340,2026-06-24,North,Uttar Pradesh,Noida,Aarav,Home Appliances,Cleaning,Vacuum Cleaner,6,9800,0.0,58800.0,47149.13,11650.87,Consumer,UPI
+ORD-0331,2026-06-24,East,Bihar,Muzaffarpur,Rohan,Office Supplies,Paper,Photo Paper,1,900,0.05,855.0,642.37,212.63,Corporate,Credit Card
+ORD-0180,2026-06-25,North,Uttar Pradesh,Kanpur,Rohan,Office Supplies,Paper,Premium Paper,4,650,0.0,2600.0,1706.27,893.73,Corporate,Net Banking
+ORD-0558,2026-06-26,South,Kerala,Kochi,Diya,Electronics,Accessories,Wireless Earbuds,1,2500,0.0,2500.0,1953.89,546.11,Consumer,Net Banking
+ORD-0281,2026-06-26,West,Gujarat,Vadodara,Ishita,Office Supplies,Stationery,Stapler,5,280,0.15,1190.0,897.4,292.6,Small Business,UPI
+ORD-0572,2026-06-27,North,Delhi,Gurugram,Kabir,Electronics,Mobiles,Budget Phone,2,14000,0.05,26600.0,22332.16,4267.84,Consumer,Cash
+ORD-0583,2026-06-30,East,West Bengal,Kolkata,Ananya,Home Appliances,Cleaning,Vacuum Cleaner,3,9800,0.05,27930.0,22195.14,5734.86,Corporate,Cash
+ORD-0483,2026-06-30,East,Bihar,Muzaffarpur,Aarav,Home Appliances,Cleaning,Steam Mop,4,5200,0.0,20800.0,13320.26,7479.74,Small Business,UPI
+ORD-0245,2026-07-01,South,Tamil Nadu,Chennai,Diya,Electronics,Mobiles,Smartphone X,4,28000,0.1,100800.0,79485.39,21314.61,Consumer,Credit Card
+ORD-0129,2026-07-03,North,Haryana,Faridabad,Meera,Electronics,Mobiles,Budget Phone,5,14000,0.1,63000.0,45964.99,17035.01,Corporate,Credit Card
+ORD-0113,2026-07-05,West,Maharashtra,Pune,Arjun,Furniture,Storage,Storage Unit,2,11500,0.0,23000.0,15955.7,7044.3,Consumer,Credit Card
+ORD-0530,2026-07-05,South,Tamil Nadu,Coimbatore,Aarav,Home Appliances,Cooling,Air Cooler,2,12500,0.05,23750.0,17149.32,6600.68,Consumer,UPI
+ORD-0133,2026-07-07,West,Goa,Margao,Ishita,Electronics,Laptops,Laptop Pro,2,82000,0.0,164000.0,132506.21,31493.79,Consumer,Credit Card
+ORD-0444,2026-07-08,North,Delhi,New Delhi,Aarav,Home Appliances,Cleaning,Robot Vacuum,2,26000,0.05,49400.0,39418.32,9981.68,Consumer,Net Banking
+ORD-0514,2026-07-08,South,Tamil Nadu,Madurai,Diya,Home Appliances,Kitchen,Air Fryer,3,6500,0.15,16575.0,10609.52,5965.48,Small Business,Net Banking
+ORD-0288,2026-07-09,West,Rajasthan,Jaipur,Diya,Furniture,Storage,Filing Cabinet,5,9200,0.2,36800.0,28599.87,8200.13,Small Business,Debit Card
+ORD-0370,2026-07-10,North,Uttar Pradesh,Kanpur,Arjun,Home Appliances,Kitchen,Mixer Grinder,6,4200,0.15,21420.0,14335.9,7084.1,Corporate,Debit Card
+ORD-0035,2026-07-10,East,West Bengal,Kolkata,Rohan,Furniture,Chairs,Visitor Chair,1,3200,0.2,2560.0,2097.09,462.91,Consumer,UPI
+ORD-0011,2026-07-11,North,Haryana,Gurugram,Ishita,Furniture,Chairs,Office Chair,7,7500,0.05,49875.0,32691.5,17183.5,Corporate,Net Banking
+ORD-0373,2026-07-11,South,Kerala,Kochi,Diya,Office Supplies,Stationery,Calculator,7,750,0.1,4725.0,3925.46,799.54,Small Business,Net Banking
+ORD-0309,2026-07-12,South,Kerala,Thiruvananthapuram,Ananya,Furniture,Storage,Filing Cabinet,1,9200,0.0,9200.0,7067.46,2132.54,Consumer,UPI
+ORD-0562,2026-07-12,East,Odisha,Bhubaneswar,Ananya,Office Supplies,Stationery,Desk Organizer,2,550,0.05,1045.0,681.08,363.92,Small Business,UPI
+ORD-0067,2026-07-13,South,Tamil Nadu,Chennai,Aarav,Electronics,Laptops,Business Laptop,4,68000,0.1,244800.0,164831.22,79968.78,Corporate,UPI
+ORD-0311,2026-07-13,South,Kerala,Thiruvananthapuram,Ishita,Electronics,Mobiles,Smartphone Pro,4,42000,0.05,159600.0,104813.28,54786.72,Consumer,UPI
+ORD-0319,2026-07-15,South,Kerala,Thiruvananthapuram,Aarav,Office Supplies,Stationery,Desk Organizer,6,550,0.05,3135.0,2400.06,734.94,Consumer,Net Banking
+ORD-0591,2026-07-16,West,Rajasthan,Udaipur,Ishita,Furniture,Tables,Conference Table,5,28000,0.0,140000.0,110101.41,29898.59,Consumer,Debit Card
+ORD-0190,2026-07-17,North,Uttar Pradesh,Lucknow,Rohan,Home Appliances,Cooling,Air Cooler,3,12500,0.0,37500.0,30111.5,7388.5,Consumer,Net Banking
+ORD-0236,2026-07-17,East,West Bengal,Howrah,Diya,Electronics,Accessories,Power Bank,3,1800,0.05,5130.0,3473.29,1656.71,Consumer,UPI
+ORD-0534,2026-07-19,North,Haryana,Faridabad,Arjun,Electronics,Laptops,Business Laptop,5,68000,0.0,340000.0,239724.89,100275.11,Consumer,Credit Card
+ORD-0401,2026-07-20,South,Tamil Nadu,Chennai,Meera,Furniture,Chairs,Visitor Chair,1,3200,0.05,3040.0,1949.44,1090.56,Consumer,UPI
+ORD-0466,2026-07-21,West,Gujarat,Ahmedabad,Diya,Electronics,Mobiles,Budget Phone,3,14000,0.15,35700.0,23242.98,12457.02,Consumer,Cash
+ORD-0079,2026-07-21,West,Maharashtra,Pune,Kabir,Electronics,Laptops,Laptop Pro,4,82000,0.0,328000.0,269807.95,58192.05,Corporate,Credit Card
+ORD-0003,2026-07-21,South,Telangana,Nizamabad,Ananya,Electronics,Accessories,Smart Watch,6,6500,0.15,33150.0,22009.22,11140.78,Corporate,UPI
+ORD-0253,2026-07-22,South,Telangana,Warangal,Ananya,Electronics,Laptops,Business Laptop,3,68000,0.05,193800.0,158952.34,34847.66,Corporate,UPI
+ORD-0290,2026-07-23,North,Uttar Pradesh,Kanpur,Ananya,Furniture,Chairs,Visitor Chair,4,3200,0.1,11520.0,7989.02,3530.98,Consumer,UPI
+ORD-0460,2026-07-28,West,Gujarat,Ahmedabad,Ishita,Electronics,Accessories,Power Bank,3,1800,0.05,5130.0,3249.92,1880.08,Consumer,Cash
+ORD-0066,2026-07-28,North,Punjab,Jalandhar,Aarav,Home Appliances,Cleaning,Steam Mop,1,5200,0.1,4680.0,3645.89,1034.11,Corporate,Credit Card
+ORD-0448,2026-07-29,West,Maharashtra,Nagpur,Ananya,Electronics,Accessories,Power Bank,1,1800,0.15,1530.0,1176.36,353.64,Corporate,UPI
+ORD-0142,2026-07-29,West,Gujarat,Ahmedabad,Aarav,Office Supplies,Paper,Premium Paper,6,650,0.1,3510.0,2947.95,562.05,Small Business,Cash
+ORD-0106,2026-07-29,West,Gujarat,Vadodara,Ishita,Home Appliances,Cleaning,Vacuum Cleaner,7,9800,0.2,54880.0,36822.71,18057.29,Corporate,Credit Card
+ORD-0380,2026-07-30,North,Haryana,Panipat,Diya,Home Appliances,Cleaning,Vacuum Cleaner,7,9800,0.0,68600.0,46025.42,22574.58,Small Business,Credit Card
+ORD-0410,2026-07-30,West,Maharashtra,Nagpur,Ishita,Furniture,Chairs,Visitor Chair,6,3200,0.05,18240.0,13956.01,4283.99,Corporate,UPI
+ORD-0197,2026-07-31,South,Telangana,Hyderabad,Diya,Home Appliances,Kitchen,Mixer Grinder,2,4200,0.0,8400.0,6054.94,2345.06,Consumer,Net Banking
